@@ -8,8 +8,8 @@ raw_tags:
   - checkm2-contamination
   - abundance
   - runs
-word_count: 47
-char_count: 293
+word_count: 72
+char_count: 479
 processed: false
 ---
 

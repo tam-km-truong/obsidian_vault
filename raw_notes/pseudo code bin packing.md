@@ -1,15 +1,15 @@
 ---
 raw_tags:
   - bin
-  - bins
   - placed
+  - bins
   - genome
   - kmers
   - estimate
   - threshold
   - distinct
-word_count: 159
-char_count: 1162
+word_count: 184
+char_count: 1320
 processed: false
 ---
 

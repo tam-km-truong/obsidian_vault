@@ -8,8 +8,8 @@ raw_tags:
   - book
   - manual
   - bioinfo
-word_count: 41
-char_count: 231
+word_count: 66
+char_count: 392
 processed: false
 ---
 

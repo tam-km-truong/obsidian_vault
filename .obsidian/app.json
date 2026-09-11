@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "openBehavior": "daily",
+  "openBehavior": "empty",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

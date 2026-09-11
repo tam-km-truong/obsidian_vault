@@ -4,12 +4,12 @@ raw_tags:
   - minimize
   - must
   - batch
-  - representation
   - set
+  - representation
   - your
   - problem
-word_count: 154
-char_count: 985
+word_count: 179
+char_count: 1142
 processed: false
 ---
 

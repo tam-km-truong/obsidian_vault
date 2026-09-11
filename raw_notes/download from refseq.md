@@ -2,8 +2,8 @@
 raw_tags:
   - ftp
   - wget
-word_count: 2
-char_count: 77
+word_count: 15
+char_count: 159
 processed: false
 ---
 

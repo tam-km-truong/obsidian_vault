@@ -1,15 +1,15 @@
 ---
 raw_tags:
   - accession
+  - genome
   - inputfile
   - bac
   - dehydrated
   - cds
   - rna
   - protein
-  - gff
-word_count: 13
-char_count: 173
+word_count: 38
+char_count: 327
 processed: false
 ---
 

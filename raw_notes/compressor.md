@@ -8,8 +8,8 @@ raw_tags:
   - zstd
   - high
   - decompression
-word_count: 259
-char_count: 1817
+word_count: 284
+char_count: 1983
 processed: false
 ---
 

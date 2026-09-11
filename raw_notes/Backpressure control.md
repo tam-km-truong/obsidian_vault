@@ -8,8 +8,8 @@ raw_tags:
   - backpressure
   - concurrency
   - tasks
-word_count: 479
-char_count: 3516
+word_count: 504
+char_count: 3678
 processed: false
 ---
 

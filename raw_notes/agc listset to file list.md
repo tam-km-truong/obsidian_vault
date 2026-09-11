@@ -6,10 +6,10 @@ raw_tags:
   - base
   - contains
   - agc
-  - listset
-  - same1019231
-word_count: 73
-char_count: 601
+  - genome
+  - txt
+word_count: 98
+char_count: 759
 processed: false
 ---
 

@@ -8,8 +8,8 @@ raw_tags:
   - sketch
   - minhash
   - hash
-word_count: 175
-char_count: 1390
+word_count: 200
+char_count: 1543
 processed: false
 ---
 

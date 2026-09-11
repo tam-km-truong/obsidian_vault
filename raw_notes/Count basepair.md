@@ -7,8 +7,8 @@ raw_tags:
   - grep
   - enterica
   - salmonella
-word_count: 64
-char_count: 375
+word_count: 87
+char_count: 514
 processed: false
 ---
 

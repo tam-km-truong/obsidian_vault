@@ -7,9 +7,9 @@ raw_tags:
   - taxonomic
   - completeness
   - assemblies
-  - quality
-word_count: 380
-char_count: 2895
+  - bacterial
+word_count: 405
+char_count: 3075
 processed: false
 ---
 

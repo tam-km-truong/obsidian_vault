@@ -8,8 +8,8 @@ raw_tags:
   - skeleton
   - phrase
   - percent
-word_count: 1683
-char_count: 11712
+word_count: 1708
+char_count: 11891
 processed: false
 ---
 

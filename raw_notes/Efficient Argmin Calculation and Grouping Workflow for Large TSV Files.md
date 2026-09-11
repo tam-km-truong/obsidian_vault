@@ -5,11 +5,11 @@ raw_tags:
   - open
   - names
   - awk
-  - argmin
   - min
+  - argmin
   - name
-word_count: 809
-char_count: 5737
+word_count: 834
+char_count: 5876
 processed: false
 ---
 

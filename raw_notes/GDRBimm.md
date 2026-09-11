@@ -4,8 +4,8 @@ raw_tags:
   - jeune
   - chercheur
   - team
-word_count: 6
-char_count: 36
+word_count: 23
+char_count: 146
 processed: false
 ---
 

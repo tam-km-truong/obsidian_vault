@@ -8,8 +8,8 @@ raw_tags:
   - ancestor
   - speciation
   - paralogs
-word_count: 33
-char_count: 232
+word_count: 58
+char_count: 403
 processed: false
 ---
 

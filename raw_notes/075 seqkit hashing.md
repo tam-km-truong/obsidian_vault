@@ -3,13 +3,13 @@ raw_tags:
   - mbgc
   - seqkit
   - experiments
-  - dustbin
   - dls
+  - dustbin
   - sum
   - cut
   - basename
-word_count: 29
-char_count: 317
+word_count: 54
+char_count: 469
 processed: false
 ---
 

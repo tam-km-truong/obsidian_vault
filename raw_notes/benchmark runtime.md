@@ -8,8 +8,8 @@ raw_tags:
   - total
   - goal
   - per
-word_count: 15
-char_count: 103
+word_count: 40
+char_count: 255
 processed: false
 ---
 

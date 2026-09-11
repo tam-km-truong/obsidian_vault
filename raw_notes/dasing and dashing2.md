@@ -8,8 +8,8 @@ raw_tags:
   - cmpout
   - save-kmers
   - saved
-word_count: 146
-char_count: 1034
+word_count: 171
+char_count: 1192
 processed: false
 ---
 

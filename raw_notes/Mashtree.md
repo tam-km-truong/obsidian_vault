@@ -8,8 +8,8 @@ raw_tags:
   - calculates
   - bootstrapping
   - jackknifing
-word_count: 138
-char_count: 978
+word_count: 163
+char_count: 1162
 processed: false
 ---
 

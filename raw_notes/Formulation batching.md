@@ -8,8 +8,8 @@ raw_tags:
   - batches
   - j-1
   - uncompressed
-word_count: 3579
-char_count: 25624
+word_count: 3604
+char_count: 25790
 processed: false
 ---
 

@@ -2,8 +2,8 @@
 raw_tags:
   - bootstrapping
   - jackknifing
-word_count: 3
-char_count: 29
+word_count: 16
+char_count: 128
 processed: false
 ---
 

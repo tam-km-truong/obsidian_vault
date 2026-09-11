@@ -8,8 +8,8 @@ raw_tags:
   - update
   - bit-packing
   - stores
-word_count: 200
-char_count: 1485
+word_count: 225
+char_count: 1649
 processed: false
 ---
 

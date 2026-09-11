@@ -8,8 +8,8 @@ raw_tags:
   - head
   - processed
   - compressor
-word_count: 52
-char_count: 318
+word_count: 77
+char_count: 471
 processed: false
 ---
 

@@ -8,8 +8,8 @@ raw_tags:
   - compressed
   - uncompressed
   - minimize
-word_count: 819
-char_count: 5183
+word_count: 844
+char_count: 5354
 processed: false
 ---
 

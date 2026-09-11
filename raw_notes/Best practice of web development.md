@@ -8,8 +8,8 @@ raw_tags:
   - documentation
   - thing
   - easy
-word_count: 170
-char_count: 1088
+word_count: 195
+char_count: 1246
 processed: false
 ---
 

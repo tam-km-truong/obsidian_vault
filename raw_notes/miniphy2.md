@@ -2,14 +2,14 @@
 raw_tags:
   - fof
   - compress
-  - miniphy2
   - batch
+  - miniphy2
   - lfo
   - string
   - exited
   - non-zero
-word_count: 365
-char_count: 10496
+word_count: 390
+char_count: 10653
 processed: false
 ---
 

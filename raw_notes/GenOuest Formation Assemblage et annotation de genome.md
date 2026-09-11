@@ -8,8 +8,8 @@ raw_tags:
   - reads
   - format
   - bam
-word_count: 332
-char_count: 2314
+word_count: 357
+char_count: 2474
 processed: false
 ---
 

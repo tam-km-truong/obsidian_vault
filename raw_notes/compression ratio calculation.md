@@ -3,8 +3,8 @@ raw_tags:
   - pasted
   - png
   - image
-word_count: 3
-char_count: 36
+word_count: 18
+char_count: 130
 processed: false
 ---
 

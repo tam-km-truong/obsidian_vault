@@ -8,8 +8,8 @@ raw_tags:
   - image
   - take
   - add
-word_count: 46
-char_count: 295
+word_count: 71
+char_count: 437
 processed: false
 ---
 

@@ -1,15 +1,15 @@
 ---
 raw_tags:
   - cluster
+  - txt
   - preorder
   - cut-point
   - statistic
-  - txt
   - debug
   - phylopack
   - experiments
-word_count: 40
-char_count: 679
+word_count: 65
+char_count: 847
 processed: false
 ---
 

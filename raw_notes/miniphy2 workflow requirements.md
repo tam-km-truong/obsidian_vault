@@ -8,8 +8,8 @@ raw_tags:
   - snakefile
   - dir
   - batches
-word_count: 75
-char_count: 1273
+word_count: 100
+char_count: 1450
 processed: false
 ---
 

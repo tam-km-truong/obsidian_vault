@@ -8,8 +8,8 @@ raw_tags:
   - hal
   - technical
   - details
-word_count: 20
-char_count: 131
+word_count: 45
+char_count: 297
 processed: false
 ---
 

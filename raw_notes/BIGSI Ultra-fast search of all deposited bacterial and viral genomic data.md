@@ -7,9 +7,9 @@ raw_tags:
   - scalability
   - blast
   - genotyping
-  - bloom
-word_count: 620
-char_count: 4341
+  - resistance
+word_count: 645
+char_count: 4505
 processed: false
 ---
 

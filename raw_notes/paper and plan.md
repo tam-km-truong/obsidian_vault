@@ -6,10 +6,10 @@ raw_tags:
   - page
   - alternative
   - confe
-  - poster
   - magnify
-word_count: 76
-char_count: 439
+  - metropole
+word_count: 101
+char_count: 603
 processed: false
 ---
 

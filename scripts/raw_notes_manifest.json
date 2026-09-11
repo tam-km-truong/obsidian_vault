@@ -1,15 +1,7 @@
 {
   "generated_at": "1789130172.7021494",
-  "total_active_notes": 78,
-  "deleted_empty_notes": [
-    "raw_notes/Bloom filter.md",
-    "raw_notes/DanD.md",
-    "raw_notes/Issues miniphy2 workflow.md",
-    "raw_notes/MapReduce.md",
-    "raw_notes/Mining of massive dataset book.md",
-    "raw_notes/QuickTree.md",
-    "raw_notes/awk command.md"
-  ],
+  "total_active_notes": 101,
+  "deleted_empty_notes": [],
   "notes": {
     "raw_notes/075 seqkit hashing.md": {
       "title": "075 seqkit hashing",
@@ -17,8 +9,8 @@
         "mbgc",
         "seqkit",
         "experiments",
-        "dustbin",
         "dls",
+        "dustbin",
         "sum",
         "cut",
         "basename"
@@ -27,14 +19,14 @@
         "mbgc": 3,
         "seqkit": 2,
         "experiments": 2,
-        "dustbin": 1,
         "dls": 1,
+        "dustbin": 1,
         "sum": 1,
         "cut": 1,
         "basename": 1
       },
-      "word_count": 29,
-      "char_count": 317,
+      "word_count": 54,
+      "char_count": 469,
       "processed": false
     },
     "raw_notes/078.md": {
@@ -47,7 +39,7 @@
         "calculating",
         "parse",
         "pigz",
-        "sketching"
+        "sed"
       ],
       "top_terms": {
         "experiments": 8,
@@ -57,10 +49,10 @@
         "calculating": 1,
         "parse": 1,
         "pigz": 1,
-        "sketching": 1
+        "sed": 1
       },
-      "word_count": 79,
-      "char_count": 1086,
+      "word_count": 104,
+      "char_count": 1251,
       "processed": false
     },
     "raw_notes/1v1 Meeting 19 jan.md": {
@@ -85,8 +77,476 @@
         "project": 1,
         "name": 1
       },
-      "word_count": 22,
-      "char_count": 135,
+      "word_count": 47,
+      "char_count": 297,
+      "processed": false
+    },
+    "raw_notes/2024-12-17.md": {
+      "title": "2024-12-17",
+      "raw_tags": [
+        "hash",
+        "robinhood",
+        "murmur",
+        "dand",
+        "implemented",
+        "reading",
+        "simple",
+        "script"
+      ],
+      "top_terms": {
+        "hash": 2,
+        "robinhood": 1,
+        "murmur": 1,
+        "dand": 1,
+        "implemented": 1,
+        "reading": 1,
+        "simple": 1,
+        "script": 1
+      },
+      "word_count": 15,
+      "char_count": 100,
+      "processed": false
+    },
+    "raw_notes/2024-12-18.md": {
+      "title": "2024-12-18",
+      "raw_tags": [
+        "rumen",
+        "estimating",
+        "hyperloglog",
+        "meeting",
+        "morning",
+        "cardinality",
+        "optimization",
+        "talk"
+      ],
+      "top_terms": {
+        "rumen": 1,
+        "estimating": 1,
+        "hyperloglog": 1,
+        "meeting": 1,
+        "morning": 1,
+        "cardinality": 1,
+        "optimization": 1,
+        "talk": 1
+      },
+      "word_count": 16,
+      "char_count": 118,
+      "processed": false
+    },
+    "raw_notes/2024-12-19.md": {
+      "title": "2024-12-19",
+      "raw_tags": [
+        "kmc3",
+        "counter",
+        "implementing",
+        "minhash"
+      ],
+      "top_terms": {
+        "kmc3": 1,
+        "counter": 1,
+        "implementing": 1,
+        "minhash": 1
+      },
+      "word_count": 6,
+      "char_count": 44,
+      "processed": false
+    },
+    "raw_notes/2025-01-07.md": {
+      "title": "2025-01-07",
+      "raw_tags": [
+        "visualization",
+        "jupyter",
+        "making",
+        "presentation"
+      ],
+      "top_terms": {
+        "visualization": 1,
+        "jupyter": 1,
+        "making": 1,
+        "presentation": 1
+      },
+      "word_count": 4,
+      "char_count": 41,
+      "processed": false
+    },
+    "raw_notes/2025-01-14.md": {
+      "title": "2025-01-14",
+      "raw_tags": [
+        "presentation",
+        "fixing",
+        "weekly",
+        "hierarchical",
+        "interleaved",
+        "bloom",
+        "filter",
+        "reading"
+      ],
+      "top_terms": {
+        "presentation": 2,
+        "fixing": 1,
+        "weekly": 1,
+        "hierarchical": 1,
+        "interleaved": 1,
+        "bloom": 1,
+        "filter": 1,
+        "reading": 1
+      },
+      "word_count": 16,
+      "char_count": 125,
+      "processed": false
+    },
+    "raw_notes/2025-01-23.md": {
+      "title": "2025-01-23",
+      "raw_tags": [
+        "miniphy2",
+        "working"
+      ],
+      "top_terms": {
+        "miniphy2": 1,
+        "working": 1
+      },
+      "word_count": 3,
+      "char_count": 20,
+      "processed": false
+    },
+    "raw_notes/2025-01-26.md": {
+      "title": "2025-01-26",
+      "raw_tags": [
+        "raptor",
+        "presentation",
+        "working"
+      ],
+      "top_terms": {
+        "raptor": 1,
+        "presentation": 1,
+        "working": 1
+      },
+      "word_count": 6,
+      "char_count": 38,
+      "processed": false
+    },
+    "raw_notes/2025-01-30.md": {
+      "title": "2025-01-30",
+      "raw_tags": [
+        "readmee"
+      ],
+      "top_terms": {
+        "readmee": 1
+      },
+      "word_count": 4,
+      "char_count": 33,
+      "processed": false
+    },
+    "raw_notes/2025-02-18.md": {
+      "title": "2025-02-18",
+      "raw_tags": [
+        "fit",
+        "hll",
+        "first"
+      ],
+      "top_terms": {
+        "fit": 1,
+        "hll": 1,
+        "first": 1
+      },
+      "word_count": 3,
+      "char_count": 13,
+      "processed": false
+    },
+    "raw_notes/2025-02-20.md": {
+      "title": "2025-02-20",
+      "raw_tags": [
+        "design",
+        "balancing",
+        "hyperloglog",
+        "poster"
+      ],
+      "top_terms": {
+        "design": 1,
+        "balancing": 1,
+        "hyperloglog": 1,
+        "poster": 1
+      },
+      "word_count": 4,
+      "char_count": 35,
+      "processed": false
+    },
+    "raw_notes/2025-02-26.md": {
+      "title": "2025-02-26",
+      "raw_tags": [
+        "today",
+        "dkm",
+        "yesterday",
+        "little",
+        "bit",
+        "poster",
+        "finished",
+        "easier"
+      ],
+      "top_terms": {
+        "today": 2,
+        "dkm": 1,
+        "yesterday": 1,
+        "little": 1,
+        "bit": 1,
+        "poster": 1,
+        "finished": 1,
+        "easier": 1
+      },
+      "word_count": 21,
+      "char_count": 123,
+      "processed": false
+    },
+    "raw_notes/2025-03-10.md": {
+      "title": "2025-03-10",
+      "raw_tags": [
+        "presented",
+        "correlation",
+        "slides"
+      ],
+      "top_terms": {
+        "presented": 1,
+        "correlation": 1,
+        "slides": 1
+      },
+      "word_count": 4,
+      "char_count": 32,
+      "processed": false
+    },
+    "raw_notes/2025-03-11.md": {
+      "title": "2025-03-11",
+      "raw_tags": [
+        "genscale",
+        "slides",
+        "working"
+      ],
+      "top_terms": {
+        "genscale": 1,
+        "slides": 1,
+        "working": 1
+      },
+      "word_count": 4,
+      "char_count": 26,
+      "processed": false
+    },
+    "raw_notes/2025-03-23.md": {
+      "title": "2025-03-23",
+      "raw_tags": [
+        "experiment",
+        "working"
+      ],
+      "top_terms": {
+        "experiment": 1,
+        "working": 1
+      },
+      "word_count": 4,
+      "char_count": 25,
+      "processed": false
+    },
+    "raw_notes/2025-03-25.md": {
+      "title": "2025-03-25",
+      "raw_tags": [
+        "batches",
+        "txt",
+        "tee",
+        "paste",
+        "cat",
+        "experiment",
+        "grep",
+        "xargs"
+      ],
+      "top_terms": {
+        "batches": 2,
+        "txt": 2,
+        "tee": 1,
+        "paste": 1,
+        "cat": 1,
+        "experiment": 1,
+        "grep": 1,
+        "xargs": 1
+      },
+      "word_count": 41,
+      "char_count": 191,
+      "processed": false
+    },
+    "raw_notes/2025-04-02.md": {
+      "title": "2025-04-02",
+      "raw_tags": [
+        "afternoon",
+        "karel",
+        "meeting",
+        "cluster",
+        "workflow",
+        "first"
+      ],
+      "top_terms": {
+        "afternoon": 1,
+        "karel": 1,
+        "meeting": 1,
+        "cluster": 1,
+        "workflow": 1,
+        "first": 1
+      },
+      "word_count": 11,
+      "char_count": 65,
+      "processed": false
+    },
+    "raw_notes/2025-04-13.md": {
+      "title": "2025-04-13",
+      "raw_tags": [
+        "lot",
+        "slurm",
+        "study",
+        "learned",
+        "quasi-phylogenetics",
+        "somehow",
+        "note",
+        "system"
+      ],
+      "top_terms": {
+        "lot": 2,
+        "slurm": 2,
+        "study": 2,
+        "learned": 1,
+        "quasi-phylogenetics": 1,
+        "somehow": 1,
+        "note": 1,
+        "system": 1
+      },
+      "word_count": 42,
+      "char_count": 229,
+      "processed": false
+    },
+    "raw_notes/2025-04-24.md": {
+      "title": "2025-04-24",
+      "raw_tags": [
+        "placement",
+        "high",
+        "quality",
+        "phylogenetic",
+        "compression",
+        "genome"
+      ],
+      "top_terms": {
+        "placement": 1,
+        "high": 1,
+        "quality": 1,
+        "phylogenetic": 1,
+        "compression": 1,
+        "genome": 1
+      },
+      "word_count": 6,
+      "char_count": 54,
+      "processed": false
+    },
+    "raw_notes/2025-04-30.md": {
+      "title": "2025-04-30",
+      "raw_tags": [
+        "range",
+        "species",
+        "evaluate",
+        "costly",
+        "suggest",
+        "pressure",
+        "touch",
+        "visio"
+      ],
+      "top_terms": {
+        "range": 2,
+        "species": 2,
+        "evaluate": 1,
+        "costly": 1,
+        "suggest": 1,
+        "pressure": 1,
+        "touch": 1,
+        "visio": 1
+      },
+      "word_count": 56,
+      "char_count": 296,
+      "processed": false
+    },
+    "raw_notes/2025-05-19.md": {
+      "title": "2025-05-19",
+      "raw_tags": [
+        "wtff",
+        "multithreading",
+        "kulllkkkkkkkkkkkkulll",
+        "nowno",
+        "just",
+        "cluster"
+      ],
+      "top_terms": {
+        "wtff": 1,
+        "multithreading": 1,
+        "kulllkkkkkkkkkkkkulll": 1,
+        "nowno": 1,
+        "just": 1,
+        "cluster": 1
+      },
+      "word_count": 11,
+      "char_count": 78,
+      "processed": false
+    },
+    "raw_notes/2025-06-10.md": {
+      "title": "2025-06-10",
+      "raw_tags": [
+        "haiz",
+        "report",
+        "martin",
+        "zam",
+        "slides",
+        "working"
+      ],
+      "top_terms": {
+        "haiz": 1,
+        "report": 1,
+        "martin": 1,
+        "zam": 1,
+        "slides": 1,
+        "working": 1
+      },
+      "word_count": 12,
+      "char_count": 61,
+      "processed": false
+    },
+    "raw_notes/2025-10-01.md": {
+      "title": "2025-10-01",
+      "raw_tags": [
+        "seqbim",
+        "writing",
+        "abstract"
+      ],
+      "top_terms": {
+        "seqbim": 1,
+        "writing": 1,
+        "abstract": 1
+      },
+      "word_count": 4,
+      "char_count": 27,
+      "processed": false
+    },
+    "raw_notes/2025-12-11.md": {
+      "title": "2025-12-11",
+      "raw_tags": [
+        "bug",
+        "weird",
+        "dustbin",
+        "bacteria",
+        "pasted",
+        "png",
+        "image"
+      ],
+      "top_terms": {
+        "bug": 1,
+        "weird": 1,
+        "dustbin": 1,
+        "bacteria": 1,
+        "pasted": 1,
+        "png": 1,
+        "image": 1
+      },
+      "word_count": 10,
+      "char_count": 76,
       "processed": false
     },
     "raw_notes/AGC.md": {
@@ -111,8 +571,8 @@
         "processed": 1,
         "compressor": 1
       },
-      "word_count": 52,
-      "char_count": 318,
+      "word_count": 77,
+      "char_count": 471,
       "processed": false
     },
     "raw_notes/Advanced linux.md": {
@@ -137,8 +597,8 @@
         "identical": 1,
         "duh": 1
       },
-      "word_count": 37,
-      "char_count": 226,
+      "word_count": 62,
+      "char_count": 383,
       "processed": false
     },
     "raw_notes/Allthebacteria.md": {
@@ -151,7 +611,7 @@
         "taxonomic",
         "completeness",
         "assemblies",
-        "quality"
+        "bacterial"
       ],
       "top_terms": {
         "species": 10,
@@ -161,10 +621,10 @@
         "taxonomic": 4,
         "completeness": 4,
         "assemblies": 4,
-        "quality": 4
+        "bacterial": 4
       },
-      "word_count": 380,
-      "char_count": 2895,
+      "word_count": 405,
+      "char_count": 3075,
       "processed": false
     },
     "raw_notes/Attotree.md": {
@@ -174,23 +634,23 @@
         "non-zero",
         "exit",
         "attotree",
-        "order",
         "tree",
-        "post-processing",
-        "ruleexception"
+        "order",
+        "txt",
+        "post-processing"
       ],
       "top_terms": {
         "workflow": 3,
         "non-zero": 2,
         "exit": 2,
         "attotree": 2,
-        "order": 2,
         "tree": 2,
-        "post-processing": 1,
-        "ruleexception": 1
+        "order": 2,
+        "txt": 2,
+        "post-processing": 1
       },
-      "word_count": 65,
-      "char_count": 1048,
+      "word_count": 90,
+      "char_count": 1221,
       "processed": false
     },
     "raw_notes/Average nucleotide identity.md": {
@@ -215,8 +675,8 @@
         "speciation": 1,
         "paralogs": 1
       },
-      "word_count": 33,
-      "char_count": 232,
+      "word_count": 58,
+      "char_count": 403,
       "processed": false
     },
     "raw_notes/BIGSI Ultra-fast search of all deposited bacterial and viral genomic data.md": {
@@ -229,7 +689,7 @@
         "scalability",
         "blast",
         "genotyping",
-        "bloom"
+        "resistance"
       ],
       "top_terms": {
         "datasets": 15,
@@ -239,10 +699,10 @@
         "scalability": 7,
         "blast": 5,
         "genotyping": 5,
-        "bloom": 5
+        "resistance": 5
       },
-      "word_count": 620,
-      "char_count": 4341,
+      "word_count": 645,
+      "char_count": 4505,
       "processed": false
     },
     "raw_notes/Backpressure control.md": {
@@ -267,8 +727,8 @@
         "concurrency": 6,
         "tasks": 6
       },
-      "word_count": 479,
-      "char_count": 3516,
+      "word_count": 504,
+      "char_count": 3678,
       "processed": false
     },
     "raw_notes/Best practice of web development.md": {
@@ -293,8 +753,8 @@
         "thing": 2,
         "easy": 2
       },
-      "word_count": 170,
-      "char_count": 1088,
+      "word_count": 195,
+      "char_count": 1246,
       "processed": false
     },
     "raw_notes/Bioinformatics databases.md": {
@@ -319,8 +779,8 @@
         "nucleic": 1,
         "online": 1
       },
-      "word_count": 37,
-      "char_count": 311,
+      "word_count": 62,
+      "char_count": 476,
       "processed": false
     },
     "raw_notes/Biostar handbook.md": {
@@ -345,8 +805,8 @@
         "manual": 1,
         "bioinfo": 1
       },
-      "word_count": 41,
-      "char_count": 231,
+      "word_count": 66,
+      "char_count": 392,
       "processed": false
     },
     "raw_notes/Burrow Wheeler Transform.md": {
@@ -371,8 +831,8 @@
         "take": 2,
         "add": 2
       },
-      "word_count": 46,
-      "char_count": 295,
+      "word_count": 71,
+      "char_count": 437,
       "processed": false
     },
     "raw_notes/Command Line.md": {
@@ -382,8 +842,8 @@
         "txt",
         "experiments",
         "match",
-        "cat",
         "source",
+        "cat",
         "kmc",
         "folder"
       ],
@@ -392,13 +852,13 @@
         "txt": 6,
         "experiments": 4,
         "match": 3,
-        "cat": 3,
         "source": 3,
+        "cat": 3,
         "kmc": 2,
         "folder": 2
       },
-      "word_count": 208,
-      "char_count": 1896,
+      "word_count": 233,
+      "char_count": 2047,
       "processed": false
     },
     "raw_notes/Command history.md": {
@@ -423,8 +883,8 @@
         "stdout": 1,
         "create": 1
       },
-      "word_count": 38,
-      "char_count": 372,
+      "word_count": 63,
+      "char_count": 528,
       "processed": false
     },
     "raw_notes/Count basepair.md": {
@@ -447,8 +907,8 @@
         "enterica": 1,
         "salmonella": 1
       },
-      "word_count": 64,
-      "char_count": 375,
+      "word_count": 87,
+      "char_count": 514,
       "processed": false
     },
     "raw_notes/DSB general script.md": {
@@ -473,8 +933,8 @@
         "phylogenetic": 14,
         "key": 14
       },
-      "word_count": 1435,
-      "char_count": 10516,
+      "word_count": 1460,
+      "char_count": 10685,
       "processed": false
     },
     "raw_notes/DSB talk transcript + question.md": {
@@ -499,8 +959,8 @@
         "skeleton": 8,
         "genome": 11
       },
-      "word_count": 1162,
-      "char_count": 8622,
+      "word_count": 1187,
+      "char_count": 8796,
       "processed": false
     },
     "raw_notes/EXP 071.md": {
@@ -521,8 +981,8 @@
         "basename": 1,
         "txt": 1
       },
-      "word_count": 22,
-      "char_count": 368,
+      "word_count": 43,
+      "char_count": 498,
       "processed": false
     },
     "raw_notes/Efficient Argmin Calculation and Grouping Workflow for Large TSV Files.md": {
@@ -533,8 +993,8 @@
         "open",
         "names",
         "awk",
-        "argmin",
         "min",
+        "argmin",
         "name"
       ],
       "top_terms": {
@@ -543,12 +1003,12 @@
         "open": 21,
         "names": 17,
         "awk": 17,
-        "argmin": 11,
         "min": 12,
+        "argmin": 11,
         "name": 15
       },
-      "word_count": 809,
-      "char_count": 5737,
+      "word_count": 834,
+      "char_count": 5876,
       "processed": false
     },
     "raw_notes/Fast size calculation.md": {
@@ -573,8 +1033,8 @@
         "printf": 3,
         "int": 3
       },
-      "word_count": 152,
-      "char_count": 1142,
+      "word_count": 177,
+      "char_count": 1295,
       "processed": false
     },
     "raw_notes/Formulation batching.md": {
@@ -599,8 +1059,8 @@
         "j-1": 20,
         "uncompressed": 22
       },
-      "word_count": 3579,
-      "char_count": 25624,
+      "word_count": 3604,
+      "char_count": 25790,
       "processed": false
     },
     "raw_notes/GDRBimm.md": {
@@ -617,8 +1077,8 @@
         "chercheur": 1,
         "team": 1
       },
-      "word_count": 6,
-      "char_count": 36,
+      "word_count": 23,
+      "char_count": 146,
       "processed": false
     },
     "raw_notes/GTBD experiment step by step.md": {
@@ -629,9 +1089,9 @@
         "metadata",
         "extract",
         "website",
-        "maybe",
         "dehydrate",
-        "rehydrate"
+        "rehydrate",
+        "downloaded"
       ],
       "top_terms": {
         "download": 3,
@@ -639,12 +1099,12 @@
         "metadata": 2,
         "extract": 2,
         "website": 1,
-        "maybe": 1,
         "dehydrate": 1,
-        "rehydrate": 1
+        "rehydrate": 1,
+        "downloaded": 1
       },
-      "word_count": 57,
-      "char_count": 359,
+      "word_count": 82,
+      "char_count": 525,
       "processed": false
     },
     "raw_notes/GenOuest Formation Assemblage et annotation de genome.md": {
@@ -669,8 +1129,8 @@
         "format": 4,
         "bam": 3
       },
-      "word_count": 332,
-      "char_count": 2314,
+      "word_count": 357,
+      "char_count": 2474,
       "processed": false
     },
     "raw_notes/HIGHLEVEL BATCHING FORMULIZATION.md": {
@@ -695,8 +1155,8 @@
         "uncompressed": 6,
         "minimize": 6
       },
-      "word_count": 819,
-      "char_count": 5183,
+      "word_count": 844,
+      "char_count": 5354,
       "processed": false
     },
     "raw_notes/High Quality Genomes.md": {
@@ -721,8 +1181,8 @@
         "abundance": 1,
         "runs": 1
       },
-      "word_count": 47,
-      "char_count": 293,
+      "word_count": 72,
+      "char_count": 479,
       "processed": false
     },
     "raw_notes/JellyFish paper.md": {
@@ -747,8 +1207,8 @@
         "bit-packing": 2,
         "stores": 2
       },
-      "word_count": 200,
-      "char_count": 1485,
+      "word_count": 225,
+      "char_count": 1649,
       "processed": false
     },
     "raw_notes/JellyFish2.md": {
@@ -761,8 +1221,8 @@
         "couldnt": 1,
         "install": 1
       },
-      "word_count": 2,
-      "char_count": 16,
+      "word_count": 15,
+      "char_count": 105,
       "processed": false
     },
     "raw_notes/Kmers counter.md": {
@@ -777,8 +1237,8 @@
         "install": 1,
         "source": 1
       },
-      "word_count": 4,
-      "char_count": 28,
+      "word_count": 19,
+      "char_count": 127,
       "processed": false
     },
     "raw_notes/MBGC.md": {
@@ -795,8 +1255,8 @@
         "txt": 2,
         "compressor": 1
       },
-      "word_count": 39,
-      "char_count": 247,
+      "word_count": 56,
+      "char_count": 359,
       "processed": false
     },
     "raw_notes/MLflow.md": {
@@ -813,8 +1273,8 @@
         "keywords": 1,
         "experiment": 1
       },
-      "word_count": 5,
-      "char_count": 41,
+      "word_count": 22,
+      "char_count": 158,
       "processed": false
     },
     "raw_notes/Mash.md": {
@@ -839,8 +1299,8 @@
         "minhash": 3,
         "hash": 3
       },
-      "word_count": 175,
-      "char_count": 1390,
+      "word_count": 200,
+      "char_count": 1543,
       "processed": false
     },
     "raw_notes/Mashtree.md": {
@@ -865,8 +1325,8 @@
         "bootstrapping": 2,
         "jackknifing": 2
       },
-      "word_count": 138,
-      "char_count": 978,
+      "word_count": 163,
+      "char_count": 1162,
       "processed": false
     },
     "raw_notes/Math.md": {
@@ -876,8 +1336,8 @@
         "minimize",
         "must",
         "batch",
-        "representation",
         "set",
+        "representation",
         "your",
         "problem"
       ],
@@ -886,13 +1346,13 @@
         "minimize": 3,
         "must": 3,
         "batch": 3,
-        "representation": 2,
         "set": 3,
+        "representation": 2,
         "your": 2,
         "problem": 2
       },
-      "word_count": 154,
-      "char_count": 985,
+      "word_count": 179,
+      "char_count": 1142,
       "processed": false
     },
     "raw_notes/Mean Squared Error (MSE) and Similar Techniques.md": {
@@ -917,8 +1377,8 @@
         "values": 8,
         "metrics": 7
       },
-      "word_count": 549,
-      "char_count": 4176,
+      "word_count": 574,
+      "char_count": 4328,
       "processed": false
     },
     "raw_notes/MinHash.md": {
@@ -929,8 +1389,8 @@
       "top_terms": {
         "mash": 1
       },
-      "word_count": 1,
-      "char_count": 5,
+      "word_count": 12,
+      "char_count": 78,
       "processed": false
     },
     "raw_notes/Misc.md": {
@@ -955,8 +1415,8 @@
         "dashing2": 2,
         "save": 2
       },
-      "word_count": 166,
-      "char_count": 2330,
+      "word_count": 191,
+      "char_count": 2482,
       "processed": false
     },
     "raw_notes/My pending jobs.md": {
@@ -981,34 +1441,34 @@
         "rerun-incomplete": 7,
         "sketch": 6
       },
-      "word_count": 182,
-      "char_count": 3904,
+      "word_count": 207,
+      "char_count": 4075,
       "processed": false
     },
     "raw_notes/NCBI datasets.md": {
       "title": "NCBI datasets",
       "raw_tags": [
         "accession",
+        "genome",
         "inputfile",
         "bac",
         "dehydrated",
         "cds",
         "rna",
-        "protein",
-        "gff"
+        "protein"
       ],
       "top_terms": {
         "accession": 2,
+        "genome": 2,
         "inputfile": 1,
         "bac": 1,
         "dehydrated": 1,
         "cds": 1,
         "rna": 1,
-        "protein": 1,
-        "gff": 1
+        "protein": 1
       },
-      "word_count": 13,
-      "char_count": 173,
+      "word_count": 38,
+      "char_count": 327,
       "processed": false
     },
     "raw_notes/Naming.md": {
@@ -1019,8 +1479,8 @@
       "top_terms": {
         "phylord": 1
       },
-      "word_count": 1,
-      "char_count": 8,
+      "word_count": 12,
+      "char_count": 84,
       "processed": false
     },
     "raw_notes/Neural inference for evolutionary genomics.md": {
@@ -1039,8 +1499,8 @@
         "parameters": 1,
         "models": 1
       },
-      "word_count": 6,
-      "char_count": 55,
+      "word_count": 25,
+      "char_count": 192,
       "processed": false
     },
     "raw_notes/Note 01 09 2025.md": {
@@ -1065,42 +1525,42 @@
         "problem": 2,
         "compression": 2
       },
-      "word_count": 87,
-      "char_count": 557,
+      "word_count": 112,
+      "char_count": 710,
       "processed": false
     },
     "raw_notes/Online Courses.md": {
       "title": "Online Courses",
       "raw_tags": [],
       "top_terms": {},
-      "word_count": 1,
-      "char_count": 43,
+      "word_count": 10,
+      "char_count": 108,
       "processed": false
     },
     "raw_notes/PhyloPack preorder ATB.md": {
       "title": "PhyloPack preorder ATB",
       "raw_tags": [
         "cluster",
+        "txt",
         "preorder",
         "cut-point",
         "statistic",
-        "txt",
         "debug",
         "phylopack",
         "experiments"
       ],
       "top_terms": {
         "cluster": 5,
+        "txt": 4,
         "preorder": 2,
         "cut-point": 2,
         "statistic": 2,
-        "txt": 4,
         "debug": 2,
         "phylopack": 2,
         "experiments": 2
       },
-      "word_count": 40,
-      "char_count": 679,
+      "word_count": 65,
+      "char_count": 847,
       "processed": false
     },
     "raw_notes/Phylogenetic confidence values.md": {
@@ -1113,8 +1573,8 @@
         "bootstrapping": 1,
         "jackknifing": 1
       },
-      "word_count": 3,
-      "char_count": 29,
+      "word_count": 16,
+      "char_count": 128,
       "processed": false
     },
     "raw_notes/Phylogeny.md": {
@@ -1135,8 +1595,8 @@
         "unit": 1,
         "taxonomic": 1
       },
-      "word_count": 7,
-      "char_count": 67,
+      "word_count": 28,
+      "char_count": 219,
       "processed": false
     },
     "raw_notes/Question.md": {
@@ -1151,8 +1611,8 @@
         "clustering": 1,
         "read": 1
       },
-      "word_count": 4,
-      "char_count": 26,
+      "word_count": 19,
+      "char_count": 127,
       "processed": false
     },
     "raw_notes/README.md": {
@@ -1163,8 +1623,8 @@
       "top_terms": {
         "workspace": 1
       },
-      "word_count": 2,
-      "char_count": 14,
+      "word_count": 13,
+      "char_count": 93,
       "processed": false
     },
     "raw_notes/Raptor.md": {
@@ -1189,8 +1649,8 @@
         "stack": 1,
         "recent": 1
       },
-      "word_count": 25,
-      "char_count": 305,
+      "word_count": 50,
+      "char_count": 455,
       "processed": false
     },
     "raw_notes/Recap feature selection in high dimensional genomics data.md": {
@@ -1203,8 +1663,8 @@
         "chloe-agathe": 1,
         "azencott": 1
       },
-      "word_count": 2,
-      "char_count": 21,
+      "word_count": 15,
+      "char_count": 116,
       "processed": false
     },
     "raw_notes/Rust.md": {
@@ -1229,8 +1689,8 @@
         "struct": 2,
         "rectangle": 2
       },
-      "word_count": 127,
-      "char_count": 1010,
+      "word_count": 152,
+      "char_count": 1172,
       "processed": false
     },
     "raw_notes/The process of writing.md": {
@@ -1255,8 +1715,8 @@
         "technical": 1,
         "details": 1
       },
-      "word_count": 20,
-      "char_count": 131,
+      "word_count": 45,
+      "char_count": 297,
       "processed": false
     },
     "raw_notes/Transcribed seqbim.md": {
@@ -1281,8 +1741,8 @@
         "phrase": 7,
         "percent": 7
       },
-      "word_count": 1683,
-      "char_count": 11712,
+      "word_count": 1708,
+      "char_count": 11891,
       "processed": false
     },
     "raw_notes/Transcript DSB.md": {
@@ -1307,8 +1767,8 @@
         "compressed": 9,
         "collections": 8
       },
-      "word_count": 1364,
-      "char_count": 9639,
+      "word_count": 1389,
+      "char_count": 9818,
       "processed": false
     },
     "raw_notes/Vertical and horizontal inheritance.md": {
@@ -1319,9 +1779,9 @@
         "plasmids",
         "mobile",
         "element",
+        "genome",
         "extrachromosomal",
-        "cell",
-        "sometimes"
+        "cell"
       ],
       "top_terms": {
         "dna": 6,
@@ -1329,12 +1789,12 @@
         "plasmids": 4,
         "mobile": 3,
         "element": 3,
+        "genome": 4,
         "extrachromosomal": 2,
-        "cell": 2,
-        "sometimes": 2
+        "cell": 2
       },
-      "word_count": 174,
-      "char_count": 2322,
+      "word_count": 199,
+      "char_count": 2491,
       "processed": false
     },
     "raw_notes/add sketches path.md": {
@@ -1347,8 +1807,8 @@
         "spacing": 1,
         "hll": 1
       },
-      "word_count": 2,
-      "char_count": 70,
+      "word_count": 15,
+      "char_count": 155,
       "processed": false
     },
     "raw_notes/agc listset to file list.md": {
@@ -1360,8 +1820,8 @@
         "base",
         "contains",
         "agc",
-        "listset",
-        "same1019231"
+        "genome",
+        "txt"
       ],
       "top_terms": {
         "archive": 9,
@@ -1370,11 +1830,11 @@
         "base": 2,
         "contains": 2,
         "agc": 2,
-        "listset": 1,
-        "same1019231": 1
+        "genome": 2,
+        "txt": 2
       },
-      "word_count": 73,
-      "char_count": 601,
+      "word_count": 98,
+      "char_count": 759,
       "processed": false
     },
     "raw_notes/benchmark runtime.md": {
@@ -1399,8 +1859,8 @@
         "goal": 1,
         "per": 1
       },
-      "word_count": 15,
-      "char_count": 103,
+      "word_count": 40,
+      "char_count": 255,
       "processed": false
     },
     "raw_notes/compression ratio calculation.md": {
@@ -1415,8 +1875,8 @@
         "png": 1,
         "image": 1
       },
-      "word_count": 3,
-      "char_count": 36,
+      "word_count": 18,
+      "char_count": 130,
       "processed": false
     },
     "raw_notes/compressor.md": {
@@ -1441,8 +1901,8 @@
         "high": 5,
         "decompression": 4
       },
-      "word_count": 259,
-      "char_count": 1817,
+      "word_count": 284,
+      "char_count": 1983,
       "processed": false
     },
     "raw_notes/dasing and dashing2.md": {
@@ -1467,8 +1927,8 @@
         "save-kmers": 2,
         "saved": 2
       },
-      "word_count": 146,
-      "char_count": 1034,
+      "word_count": 171,
+      "char_count": 1192,
       "processed": false
     },
     "raw_notes/download from refseq.md": {
@@ -1481,8 +1941,8 @@
         "ftp": 1,
         "wget": 1
       },
-      "word_count": 2,
-      "char_count": 77,
+      "word_count": 15,
+      "char_count": 159,
       "processed": false
     },
     "raw_notes/download from zenodo single line.md": {
@@ -1507,8 +1967,8 @@
         "dwnload": 1,
         "ifs": 1
       },
-      "word_count": 54,
-      "char_count": 326,
+      "word_count": 79,
+      "char_count": 466,
       "processed": false
     },
     "raw_notes/grep memo.md": {
@@ -1533,8 +1993,8 @@
         "match": 4,
         "differences": 3
       },
-      "word_count": 253,
-      "char_count": 1680,
+      "word_count": 278,
+      "char_count": 1828,
       "processed": false
     },
     "raw_notes/miniphy2 workflow requirements.md": {
@@ -1559,8 +2019,8 @@
         "dir": 2,
         "batches": 2
       },
-      "word_count": 75,
-      "char_count": 1273,
+      "word_count": 100,
+      "char_count": 1450,
       "processed": false
     },
     "raw_notes/miniphy2.md": {
@@ -1568,8 +2028,8 @@
       "raw_tags": [
         "fof",
         "compress",
-        "miniphy2",
         "batch",
+        "miniphy2",
         "lfo",
         "string",
         "exited",
@@ -1578,15 +2038,15 @@
       "top_terms": {
         "fof": 15,
         "compress": 17,
-        "miniphy2": 10,
         "batch": 15,
+        "miniphy2": 10,
         "lfo": 8,
         "string": 10,
         "exited": 8,
         "non-zero": 8
       },
-      "word_count": 365,
-      "char_count": 10496,
+      "word_count": 390,
+      "char_count": 10653,
       "processed": false
     },
     "raw_notes/outer difference of txt file 1 and file 2.md": {
@@ -1611,8 +2071,8 @@
         "fxv": 1,
         "outer": 1
       },
-      "word_count": 68,
-      "char_count": 539,
+      "word_count": 93,
+      "char_count": 684,
       "processed": false
     },
     "raw_notes/paper and plan.md": {
@@ -1624,8 +2084,8 @@
         "page",
         "alternative",
         "confe",
-        "poster",
-        "magnify"
+        "magnify",
+        "metropole"
       ],
       "top_terms": {
         "recomb": 2,
@@ -1634,19 +2094,19 @@
         "page": 1,
         "alternative": 1,
         "confe": 1,
-        "poster": 1,
-        "magnify": 1
+        "magnify": 1,
+        "metropole": 1
       },
-      "word_count": 76,
-      "char_count": 439,
+      "word_count": 101,
+      "char_count": 603,
       "processed": false
     },
     "raw_notes/pseudo code bin packing.md": {
       "title": "pseudo code bin packing",
       "raw_tags": [
         "bin",
-        "bins",
         "placed",
+        "bins",
         "genome",
         "kmers",
         "estimate",
@@ -1655,16 +2115,16 @@
       ],
       "top_terms": {
         "bin": 10,
-        "bins": 6,
         "placed": 7,
+        "bins": 6,
         "genome": 9,
         "kmers": 4,
         "estimate": 4,
         "threshold": 3,
         "distinct": 3
       },
-      "word_count": 159,
-      "char_count": 1162,
+      "word_count": 184,
+      "char_count": 1320,
       "processed": false
     },
     "raw_notes/psuedocode.md": {
@@ -1672,25 +2132,25 @@
       "raw_tags": [
         "size",
         "generate",
+        "batch",
         "phase",
         "finalplacementorder",
         "stats",
-        "batch",
         "placement",
         "tree"
       ],
       "top_terms": {
         "size": 9,
         "generate": 5,
+        "batch": 5,
         "phase": 3,
         "finalplacementorder": 3,
         "stats": 3,
-        "batch": 5,
         "placement": 3,
         "tree": 4
       },
-      "word_count": 175,
-      "char_count": 1486,
+      "word_count": 200,
+      "char_count": 1654,
       "processed": false
     },
     "raw_notes/script seqbim 2025.md": {
@@ -1698,8 +2158,8 @@
       "raw_tags": [
         "slide",
         "pause",
-        "species",
         "genomes",
+        "species",
         "compression",
         "phylogenetic",
         "skeleton",
@@ -1708,15 +2168,15 @@
       "top_terms": {
         "slide": 35,
         "pause": 21,
-        "species": 31,
         "genomes": 36,
+        "species": 31,
         "compression": 32,
         "phylogenetic": 20,
         "skeleton": 12,
         "extraction": 12
       },
-      "word_count": 1749,
-      "char_count": 11066,
+      "word_count": 1774,
+      "char_count": 11240,
       "processed": false
     },
     "raw_notes/sed command.md": {
@@ -1741,8 +2201,8 @@
         "prepend": 3,
         "grep": 4
       },
-      "word_count": 368,
-      "char_count": 2799,
+      "word_count": 393,
+      "char_count": 2946,
       "processed": false
     },
     "raw_notes/seqkit hashing.md": {
@@ -1754,8 +2214,8 @@
         "sum",
         "cat",
         "original",
-        "xargs",
-        "cut"
+        "experiments",
+        "xargs"
       ],
       "top_terms": {
         "txt": 2,
@@ -1764,11 +2224,11 @@
         "sum": 1,
         "cat": 1,
         "original": 1,
-        "xargs": 1,
-        "cut": 1
+        "experiments": 1,
+        "xargs": 1
       },
-      "word_count": 29,
-      "char_count": 195,
+      "word_count": 54,
+      "char_count": 337,
       "processed": false
     },
     "raw_notes/split and gsplit.md": {
@@ -1793,8 +2253,8 @@
         "additional-suffix": 3,
         "parts": 2
       },
-      "word_count": 216,
-      "char_count": 1644,
+      "word_count": 241,
+      "char_count": 1805,
       "processed": false
     },
     "raw_notes/step by step.md": {
@@ -1805,8 +2265,8 @@
       "top_terms": {
         "put": 1
       },
-      "word_count": 2,
-      "char_count": 6,
+      "word_count": 13,
+      "char_count": 78,
       "processed": false
     },
     "raw_notes/xargs.md": {
@@ -1831,8 +2291,8 @@
         "cpu": 4,
         "compressed": 5
       },
-      "word_count": 459,
-      "char_count": 3040,
+      "word_count": 484,
+      "char_count": 3196,
       "processed": false
     }
   }

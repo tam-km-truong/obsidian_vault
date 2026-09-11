@@ -8,8 +8,8 @@ raw_tags:
   - archive
   - cpu
   - compressed
-word_count: 459
-char_count: 3040
+word_count: 484
+char_count: 3196
 processed: false
 ---
 

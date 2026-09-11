@@ -5,11 +5,11 @@ raw_tags:
   - plasmids
   - mobile
   - element
+  - genome
   - extrachromosomal
   - cell
-  - sometimes
-word_count: 174
-char_count: 2322
+word_count: 199
+char_count: 2491
 processed: false
 ---
 

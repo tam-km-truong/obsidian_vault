@@ -8,8 +8,8 @@ raw_tags:
   - phylogenetic
   - skeleton
   - genome
-word_count: 1162
-char_count: 8622
+word_count: 1187
+char_count: 8796
 processed: false
 ---
 

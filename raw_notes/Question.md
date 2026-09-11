@@ -3,8 +3,8 @@ raw_tags:
   - mapping
   - clustering
   - read
-word_count: 4
-char_count: 26
+word_count: 19
+char_count: 127
 processed: false
 ---
 

@@ -4,8 +4,8 @@ raw_tags:
   - basename
   - txt
   - compressor
-word_count: 39
-char_count: 247
+word_count: 56
+char_count: 359
 processed: false
 ---
 

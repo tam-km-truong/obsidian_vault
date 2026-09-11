@@ -2,14 +2,14 @@
 raw_tags:
   - slide
   - pause
-  - species
   - genomes
+  - species
   - compression
   - phylogenetic
   - skeleton
   - extraction
-word_count: 1749
-char_count: 11066
+word_count: 1774
+char_count: 11240
 processed: false
 ---
 

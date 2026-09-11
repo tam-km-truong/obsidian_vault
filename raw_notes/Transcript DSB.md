@@ -8,8 +8,8 @@ raw_tags:
   - isolates
   - compressed
   - collections
-word_count: 1364
-char_count: 9639
+word_count: 1389
+char_count: 9818
 processed: false
 ---
 

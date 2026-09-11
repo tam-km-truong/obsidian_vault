@@ -8,8 +8,8 @@ raw_tags:
   - kmers
   - dashing2
   - save
-word_count: 166
-char_count: 2330
+word_count: 191
+char_count: 2482
 processed: false
 ---
 

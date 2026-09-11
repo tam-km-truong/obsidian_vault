@@ -1,0 +1,11 @@
+vertical: through generations as parents fission into pairs of children
+
+horizontal: gene transfer by viruses and mobile genetic elements such as plasmids and transposons.
+
+plasmid: A **plasmid** is a small, [extrachromosomal DNA](https://en.wikipedia.org/wiki/Extrachromosomal_DNA "Extrachromosomal DNA") molecule within a cell that is physically separated from [chromosomal DNA](https://en.wikipedia.org/wiki/GDNA "GDNA") and can replicate independently. 
+
+They are most commonly found as small circular, double-stranded DNA molecules in [bacteria](https://en.wikipedia.org/wiki/Bacteria "Bacteria"); however, plasmids are sometimes present in [archaea](https://en.wikipedia.org/wiki/Archaea "Archaea") and [eukaryotic organisms](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote").[[1]](https://en.wikipedia.org/wiki/Plasmid#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Plasmid#cite_note-2) 
+
+Plasmids often carry useful genes, such as [antibiotic resistance](https://en.wikipedia.org/wiki/Antibiotic_resistance "Antibiotic resistance") and [virulence](https://en.wikipedia.org/wiki/Virulence "Virulence").[[3]](https://en.wikipedia.org/wiki/Plasmid#cite_note-Smillie_2010-3)[[4]](https://en.wikipedia.org/wiki/Plasmid#cite_note-Carattoli_2013-4)[[5]](https://en.wikipedia.org/wiki/Plasmid#cite_note-:1-5) While chromosomes are large and contain all the essential genetic information for living under normal conditions, plasmids are usually very small and contain additional genes for special circumstances.
+
+transposon: A **transposable element** (**TE**), also **transposon**, or **jumping gene**, is a type of [mobile genetic element](https://en.wikipedia.org/wiki/Mobile_genetic_element "Mobile genetic element"), a [nucleic acid sequence](https://en.wikipedia.org/wiki/Nucleic_acid_sequence "Nucleic acid sequence") in [DNA](https://en.wikipedia.org/wiki/DNA "DNA") that can change its position within a [genome](https://en.wikipedia.org/wiki/Genome "Genome"), sometimes creating or reversing [mutations](https://en.wikipedia.org/wiki/Mutation "Mutation") and altering the cell's genetic identity and [genome size](https://en.wikipedia.org/wiki/Genome_size "Genome size").[[1]](https://en.wikipedia.org/wiki/Transposable_element#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Transposable_element#cite_note-2)

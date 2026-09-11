@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - genomes
+  - species
+  - compression
+  - phylogenetic
+  - extraction
+  - skeleton
+  - phrase
+  - percent
+word_count: 1683
+char_count: 11712
+processed: false
+---
+
 This work focuses on how we can store and access millions of bacterial genomes efficiently using a method we call phylogenetic batching. The aim is to show why this problem matters, what the current limitations are, and how our approach improves both compression and extraction at very large scale.
 
 **Introduction: Bacterial Data Are Growing Exponentially**

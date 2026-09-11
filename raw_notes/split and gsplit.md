@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - split
+  - txt
+  - part
+  - numeric
+  - suffix
+  - chunk
+  - additional-suffix
+  - parts
+word_count: 216
+char_count: 1644
+processed: false
+---
+
 To **split a text file into 6 parts by line**, you can use:
 
 ```bash

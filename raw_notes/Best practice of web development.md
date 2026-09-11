@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - readable
+  - coding
+  - style
+  - brand
+  - git
+  - documentation
+  - thing
+  - easy
+word_count: 170
+char_count: 1088
+processed: false
+---
+
 ## Brainstorming
 FAIR
 Doc

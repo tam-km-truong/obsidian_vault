@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - recomb
+  - check
+  - specification
+  - page
+  - alternative
+  - confe
+  - poster
+  - magnify
+word_count: 76
+char_count: 439
+processed: false
+---
+
 paper specification
 have to check the number of page
 to have the story

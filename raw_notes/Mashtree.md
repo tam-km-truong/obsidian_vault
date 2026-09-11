@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - confidence
+  - trees
+  - k-mers
+  - replacement
+  - replicates
+  - calculates
+  - bootstrapping
+  - jackknifing
+word_count: 138
+char_count: 978
+processed: false
+---
+
 #mash
 ### In a nutshell
 

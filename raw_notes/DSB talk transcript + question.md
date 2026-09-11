@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - genomes
+  - species
+  - compression
+  - batches
+  - access
+  - phylogenetic
+  - skeleton
+  - genome
+word_count: 1162
+char_count: 8622
+processed: false
+---
+
 # Presentation Transcript (Polished)
 
 Good morning everyone. I am very happy to be here.

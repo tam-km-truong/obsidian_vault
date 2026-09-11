@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - file2
+  - txt
+  - experiments
+  - match
+  - cat
+  - source
+  - kmc
+  - folder
+word_count: 208
+char_count: 1896
+processed: false
+---
+
 Add `time` before the command you want to measure. For example: `time ls`.
 Move all into 1 folder mv source source source destination
 mv ./salmonella_enterica__08/* ./salmonella_enterica__37/* ./salmonella_enterica__38/* ./salmonella_enterica__08_37_38_12k

@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - queue
+  - pending
+  - job
+  - full
+  - memory
+  - backpressure
+  - concurrency
+  - tasks
+word_count: 479
+char_count: 3516
+processed: false
+---
+
 # TL;DR Guide: Backpressure, Concurrency & Memory Management in Python
 
 ---

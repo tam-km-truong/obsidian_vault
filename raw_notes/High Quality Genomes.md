@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - majority
+  - least
+  - species
+  - insdc
+  - checkm2-completeness
+  - checkm2-contamination
+  - abundance
+  - runs
+word_count: 47
+char_count: 293
+processed: false
+---
+
 genome size between 100k and 15Mb, 
 no more than 2000 contigs, 
 N50 at least 5000, 

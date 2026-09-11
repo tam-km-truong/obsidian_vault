@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - assembly
+  - scaffold
+  - galaxy
+  - contig
+  - reference
+  - reads
+  - format
+  - bam
+word_count: 332
+char_count: 2314
+processed: false
+---
+
 Presentation de Galaxy
 	galaxy training network: more info here
 	what is galaxy

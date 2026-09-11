@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - file2
+  - match
+  - txt
+  - file1
+  - minus
+  - needing
+  - fxv
+  - outer
+word_count: 68
+char_count: 539
+processed: false
+---
+
 ### This gives you the **outer difference of file1 minus file2** without needing to sort. 
 
 ```bash

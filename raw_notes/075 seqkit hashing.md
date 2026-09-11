@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - mbgc
+  - seqkit
+  - experiments
+  - dustbin
+  - dls
+  - sum
+  - cut
+  - basename
+word_count: 29
+char_count: 317
+processed: false
+---
+
 dustbin__005_0,seqkit.v0.1_DLS_k0_d901a6f26ea11ed68c223056aefabe50
 
 ```bash

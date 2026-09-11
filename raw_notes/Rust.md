@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - attribute
+  - applies
+  - unused
+  - attr
+  - module
+  - derive
+  - struct
+  - rectangle
+word_count: 127
+char_count: 1010
+processed: false
+---
+
 **Syntax**  
 _InnerAttribute_ :  
    `#` `!` `[` _Attr_ `]`

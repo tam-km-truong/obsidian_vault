@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - genomes
+  - species
+  - compression
+  - phylogenetic
+  - atb
+  - isolates
+  - compressed
+  - collections
+word_count: 1364
+char_count: 9639
+processed: false
+---
+
 Today I will present my work on phylogenetic ordering and batching of million-genome collections for reduced storage and faster retrieval.
 
 Modern sequencing technologies are generating bacterial genomes at an exponential scale. Public databases such as NCBI now contain millions of genomes. Bacterial genomes are highly diverse and complex. 

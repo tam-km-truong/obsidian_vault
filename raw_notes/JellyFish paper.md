@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - hash
+  - table
+  - memory
+  - min-heap
+  - structure
+  - update
+  - bit-packing
+  - stores
+word_count: 200
+char_count: 1485
+processed: false
+---
+
 **lock-free, multithreaded hash table**
 
 Uses open addressing with quadratic probing for collision resolution.

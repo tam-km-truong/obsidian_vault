@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - genomes
+  - species
+  - compression
+  - points
+  - random
+  - access
+  - phylogenetic
+  - key
+word_count: 1435
+char_count: 10516
+processed: false
+---
+
 ## 1. Introduction
 SLOWW down and breathe
 Good morning everyone. My name is Tom, 

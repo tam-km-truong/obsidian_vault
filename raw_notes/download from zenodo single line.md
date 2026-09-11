@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - url
+  - name
+  - curl
+  - links
+  - json
+  - key
+  - dwnload
+  - ifs
+word_count: 54
+char_count: 326
+processed: false
+---
+
 curl https://zenodo.org/api/records/10229555 | jq -j '.files[] | "\(.key);\(.links[])\n"' | while IFS=";" read -r name url; do  wget -O $name $url; done
 
 curl <your file link> : get the json

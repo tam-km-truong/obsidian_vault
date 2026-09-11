@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - batch
+  - size
+  - compressed
+  - tot
+  - constraints
+  - batches
+  - j-1
+  - uncompressed
+word_count: 3579
+char_count: 25624
+processed: false
+---
+
 Below is the **order‑preserving, collection‑level** formulation that uses the **batch‑wise compressed size** as the denominator of your ratio—recognizing that
 
 $$

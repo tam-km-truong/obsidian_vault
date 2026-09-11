@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - snakefile
+  - dir
+  - snakemake
+  - config
+  - cores
+  - workflow
+  - rerun-incomplete
+  - sketch
+word_count: 182
+char_count: 3904
+processed: false
+---
+
 Run mtuber atb recompression
 snakemake --snakefile workflow/Snakefile --config input_dir=/scratch/ktruong/data/atb/recompression/mtuber/batches/ output_dir=/scratch/ktruong/data/atb/compression_results/recompressed_mtuber_5%_reference/ --cores 25 --rerun-incomplete
 

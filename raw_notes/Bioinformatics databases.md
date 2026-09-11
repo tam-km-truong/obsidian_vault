@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - database
+  - acids
+  - molecular
+  - biology
+  - seem
+  - nevertheless
+  - nucleic
+  - online
+word_count: 37
+char_count: 311
+processed: false
+---
+
 Every year, there is the Nucleic Acids Research database issue and the online molecular biology database collection
 
 database summary:

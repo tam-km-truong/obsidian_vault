@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - sed
+  - remove
+  - txt
+  - hll
+  - tail
+  - compress
+  - prepend
+  - grep
+word_count: 368
+char_count: 2799
+processed: false
+---
+
 You're using `sed` effectively for string editing in text processing! Here's a breakdown of each command you listed and a **TL;DR-style** summary you can refer to for future `sed` use:
 
 ---

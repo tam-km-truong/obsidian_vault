@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - chapters
+  - analyze
+  - quick
+  - questions-but
+  - lots
+  - book
+  - manual
+  - bioinfo
+word_count: 41
+char_count: 231
+processed: false
+---
+
 So make your data small, analyze it quickly and ask quick and easy questions-but lots of them. You will get much further
 
 Good book as a manual for bioinfo

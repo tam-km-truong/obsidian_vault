@@ -1,3 +1,16 @@
+---
+raw_tags:
+  - total
+  - count
+  - tar
+  - xof
+  - grep
+  - enterica
+  - salmonella
+word_count: 64
+char_count: 375
+processed: false
+---
 
 ```bash
 total=0

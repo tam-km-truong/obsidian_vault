@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - mse
+  - actual
+  - mae
+  - rmse
+  - predicted
+  - error
+  - values
+  - metrics
+word_count: 549
+char_count: 4176
+processed: false
+---
+
 ### **Evaluation Metrics for Regression Models**
 
 Regression models predict continuous values, and their performance is typically evaluated using various statistical error metrics. The most common metrics include **MSE, RMSE, MAE, MAPE, and R²**. Here’s a breakdown of each:

@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - dna
+  - genetic
+  - plasmids
+  - mobile
+  - element
+  - extrachromosomal
+  - cell
+  - sometimes
+word_count: 174
+char_count: 2322
+processed: false
+---
+
 vertical: through generations as parents fission into pairs of children
 
 horizontal: gene transfer by viruses and mobile genetic elements such as plasmids and transposons.

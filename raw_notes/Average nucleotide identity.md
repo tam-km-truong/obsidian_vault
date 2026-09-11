@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - event
+  - bidirectional
+  - hits
+  - orthologs
+  - evolved
+  - ancestor
+  - speciation
+  - paralogs
+word_count: 33
+char_count: 232
+processed: false
+---
+
 Bidirectional best hits: 
 
 Two genes are called **orthologs** if they evolved from their last

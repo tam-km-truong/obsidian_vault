@@ -1,4 +1,17 @@
-
+---
+raw_tags:
+  - slide
+  - pause
+  - species
+  - genomes
+  - compression
+  - phylogenetic
+  - skeleton
+  - extraction
+word_count: 1749
+char_count: 11066
+processed: false
+---
 
 # **Revised Script with Transitions**
 

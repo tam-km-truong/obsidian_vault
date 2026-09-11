@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - datasets
+  - bigsi
+  - sequence
+  - sbt
+  - scalability
+  - blast
+  - genotyping
+  - bloom
+word_count: 620
+char_count: 4341
+processed: false
+---
+
 Back ground and Context: (2019)
 Limitation of existing methods (BLAST)
 According to the BIGSI paper, BLAST has two key limitations when applied to large genomic archives:

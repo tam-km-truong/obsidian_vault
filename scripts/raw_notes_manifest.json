@@ -1,0 +1,1839 @@
+{
+  "generated_at": "1789130172.7021494",
+  "total_active_notes": 78,
+  "deleted_empty_notes": [
+    "raw_notes/Bloom filter.md",
+    "raw_notes/DanD.md",
+    "raw_notes/Issues miniphy2 workflow.md",
+    "raw_notes/MapReduce.md",
+    "raw_notes/Mining of massive dataset book.md",
+    "raw_notes/QuickTree.md",
+    "raw_notes/awk command.md"
+  ],
+  "notes": {
+    "raw_notes/075 seqkit hashing.md": {
+      "title": "075 seqkit hashing",
+      "raw_tags": [
+        "mbgc",
+        "seqkit",
+        "experiments",
+        "dustbin",
+        "dls",
+        "sum",
+        "cut",
+        "basename"
+      ],
+      "top_terms": {
+        "mbgc": 3,
+        "seqkit": 2,
+        "experiments": 2,
+        "dustbin": 1,
+        "dls": 1,
+        "sum": 1,
+        "cut": 1,
+        "basename": 1
+      },
+      "word_count": 29,
+      "char_count": 317,
+      "processed": false
+    },
+    "raw_notes/078.md": {
+      "title": "078",
+      "raw_tags": [
+        "experiments",
+        "txt",
+        "dashing",
+        "phrases",
+        "calculating",
+        "parse",
+        "pigz",
+        "sketching"
+      ],
+      "top_terms": {
+        "experiments": 8,
+        "txt": 4,
+        "dashing": 2,
+        "phrases": 1,
+        "calculating": 1,
+        "parse": 1,
+        "pigz": 1,
+        "sketching": 1
+      },
+      "word_count": 79,
+      "char_count": 1086,
+      "processed": false
+    },
+    "raw_notes/1v1 Meeting 19 jan.md": {
+      "title": "1v1 Meeting 19 jan",
+      "raw_tags": [
+        "formalization",
+        "trying",
+        "extend",
+        "solve",
+        "important",
+        "point",
+        "project",
+        "name"
+      ],
+      "top_terms": {
+        "formalization": 1,
+        "trying": 1,
+        "extend": 1,
+        "solve": 1,
+        "important": 1,
+        "point": 1,
+        "project": 1,
+        "name": 1
+      },
+      "word_count": 22,
+      "char_count": 135,
+      "processed": false
+    },
+    "raw_notes/AGC.md": {
+      "title": "AGC",
+      "raw_tags": [
+        "agc",
+        "mags",
+        "ref",
+        "gzipped",
+        "getcol",
+        "head",
+        "processed",
+        "compressor"
+      ],
+      "top_terms": {
+        "agc": 4,
+        "mags": 3,
+        "ref": 2,
+        "gzipped": 1,
+        "getcol": 1,
+        "head": 1,
+        "processed": 1,
+        "compressor": 1
+      },
+      "word_count": 52,
+      "char_count": 318,
+      "processed": false
+    },
+    "raw_notes/Advanced linux.md": {
+      "title": "Advanced linux",
+      "raw_tags": [
+        "join",
+        "myfile",
+        "slicing",
+        "dicing",
+        "ivcr",
+        "consecutive",
+        "identical",
+        "duh"
+      ],
+      "top_terms": {
+        "join": 2,
+        "myfile": 1,
+        "slicing": 1,
+        "dicing": 1,
+        "ivcr": 1,
+        "consecutive": 1,
+        "identical": 1,
+        "duh": 1
+      },
+      "word_count": 37,
+      "char_count": 226,
+      "processed": false
+    },
+    "raw_notes/Allthebacteria.md": {
+      "title": "Allthebacteria",
+      "raw_tags": [
+        "species",
+        "dataset",
+        "contamination",
+        "genome",
+        "taxonomic",
+        "completeness",
+        "assemblies",
+        "quality"
+      ],
+      "top_terms": {
+        "species": 10,
+        "dataset": 7,
+        "contamination": 4,
+        "genome": 7,
+        "taxonomic": 4,
+        "completeness": 4,
+        "assemblies": 4,
+        "quality": 4
+      },
+      "word_count": 380,
+      "char_count": 2895,
+      "processed": false
+    },
+    "raw_notes/Attotree.md": {
+      "title": "Attotree",
+      "raw_tags": [
+        "workflow",
+        "non-zero",
+        "exit",
+        "attotree",
+        "order",
+        "tree",
+        "post-processing",
+        "ruleexception"
+      ],
+      "top_terms": {
+        "workflow": 3,
+        "non-zero": 2,
+        "exit": 2,
+        "attotree": 2,
+        "order": 2,
+        "tree": 2,
+        "post-processing": 1,
+        "ruleexception": 1
+      },
+      "word_count": 65,
+      "char_count": 1048,
+      "processed": false
+    },
+    "raw_notes/Average nucleotide identity.md": {
+      "title": "Average nucleotide identity",
+      "raw_tags": [
+        "event",
+        "bidirectional",
+        "hits",
+        "orthologs",
+        "evolved",
+        "ancestor",
+        "speciation",
+        "paralogs"
+      ],
+      "top_terms": {
+        "event": 2,
+        "bidirectional": 1,
+        "hits": 1,
+        "orthologs": 1,
+        "evolved": 1,
+        "ancestor": 1,
+        "speciation": 1,
+        "paralogs": 1
+      },
+      "word_count": 33,
+      "char_count": 232,
+      "processed": false
+    },
+    "raw_notes/BIGSI Ultra-fast search of all deposited bacterial and viral genomic data.md": {
+      "title": "BIGSI Ultra-fast search of all deposited bacterial and viral genomic data",
+      "raw_tags": [
+        "datasets",
+        "bigsi",
+        "sequence",
+        "sbt",
+        "scalability",
+        "blast",
+        "genotyping",
+        "bloom"
+      ],
+      "top_terms": {
+        "datasets": 15,
+        "bigsi": 9,
+        "sequence": 8,
+        "sbt": 6,
+        "scalability": 7,
+        "blast": 5,
+        "genotyping": 5,
+        "bloom": 5
+      },
+      "word_count": 620,
+      "char_count": 4341,
+      "processed": false
+    },
+    "raw_notes/Backpressure control.md": {
+      "title": "Backpressure control",
+      "raw_tags": [
+        "queue",
+        "pending",
+        "job",
+        "full",
+        "memory",
+        "backpressure",
+        "concurrency",
+        "tasks"
+      ],
+      "top_terms": {
+        "queue": 12,
+        "pending": 10,
+        "job": 10,
+        "full": 10,
+        "memory": 10,
+        "backpressure": 6,
+        "concurrency": 6,
+        "tasks": 6
+      },
+      "word_count": 479,
+      "char_count": 3516,
+      "processed": false
+    },
+    "raw_notes/Best practice of web development.md": {
+      "title": "Best practice of web development",
+      "raw_tags": [
+        "readable",
+        "coding",
+        "style",
+        "brand",
+        "git",
+        "documentation",
+        "thing",
+        "easy"
+      ],
+      "top_terms": {
+        "readable": 3,
+        "coding": 3,
+        "style": 3,
+        "brand": 2,
+        "git": 2,
+        "documentation": 2,
+        "thing": 2,
+        "easy": 2
+      },
+      "word_count": 170,
+      "char_count": 1088,
+      "processed": false
+    },
+    "raw_notes/Bioinformatics databases.md": {
+      "title": "Bioinformatics databases",
+      "raw_tags": [
+        "database",
+        "acids",
+        "molecular",
+        "biology",
+        "seem",
+        "nevertheless",
+        "nucleic",
+        "online"
+      ],
+      "top_terms": {
+        "database": 4,
+        "acids": 1,
+        "molecular": 1,
+        "biology": 1,
+        "seem": 1,
+        "nevertheless": 1,
+        "nucleic": 1,
+        "online": 1
+      },
+      "word_count": 37,
+      "char_count": 311,
+      "processed": false
+    },
+    "raw_notes/Biostar handbook.md": {
+      "title": "Biostar handbook",
+      "raw_tags": [
+        "chapters",
+        "analyze",
+        "quick",
+        "questions-but",
+        "lots",
+        "book",
+        "manual",
+        "bioinfo"
+      ],
+      "top_terms": {
+        "chapters": 2,
+        "analyze": 1,
+        "quick": 1,
+        "questions-but": 1,
+        "lots": 1,
+        "book": 1,
+        "manual": 1,
+        "bioinfo": 1
+      },
+      "word_count": 41,
+      "char_count": 231,
+      "processed": false
+    },
+    "raw_notes/Burrow Wheeler Transform.md": {
+      "title": "Burrow Wheeler Transform",
+      "raw_tags": [
+        "string",
+        "sort",
+        "last",
+        "pasted",
+        "png",
+        "image",
+        "take",
+        "add"
+      ],
+      "top_terms": {
+        "string": 4,
+        "sort": 3,
+        "last": 3,
+        "pasted": 2,
+        "png": 2,
+        "image": 2,
+        "take": 2,
+        "add": 2
+      },
+      "word_count": 46,
+      "char_count": 295,
+      "processed": false
+    },
+    "raw_notes/Command Line.md": {
+      "title": "Command Line",
+      "raw_tags": [
+        "file2",
+        "txt",
+        "experiments",
+        "match",
+        "cat",
+        "source",
+        "kmc",
+        "folder"
+      ],
+      "top_terms": {
+        "file2": 5,
+        "txt": 6,
+        "experiments": 4,
+        "match": 3,
+        "cat": 3,
+        "source": 3,
+        "kmc": 2,
+        "folder": 2
+      },
+      "word_count": 208,
+      "char_count": 1896,
+      "processed": false
+    },
+    "raw_notes/Command history.md": {
+      "title": "Command history",
+      "raw_tags": [
+        "experiments",
+        "ref",
+        "agc",
+        "basename",
+        "galitime",
+        "head",
+        "stdout",
+        "create"
+      ],
+      "top_terms": {
+        "experiments": 3,
+        "ref": 2,
+        "agc": 2,
+        "basename": 2,
+        "galitime": 1,
+        "head": 1,
+        "stdout": 1,
+        "create": 1
+      },
+      "word_count": 38,
+      "char_count": 372,
+      "processed": false
+    },
+    "raw_notes/Count basepair.md": {
+      "title": "Count basepair",
+      "raw_tags": [
+        "total",
+        "count",
+        "tar",
+        "xof",
+        "grep",
+        "enterica",
+        "salmonella"
+      ],
+      "top_terms": {
+        "total": 10,
+        "count": 6,
+        "tar": 4,
+        "xof": 2,
+        "grep": 2,
+        "enterica": 1,
+        "salmonella": 1
+      },
+      "word_count": 64,
+      "char_count": 375,
+      "processed": false
+    },
+    "raw_notes/DSB general script.md": {
+      "title": "DSB general script",
+      "raw_tags": [
+        "genomes",
+        "species",
+        "compression",
+        "points",
+        "random",
+        "access",
+        "phylogenetic",
+        "key"
+      ],
+      "top_terms": {
+        "genomes": 25,
+        "species": 21,
+        "compression": 23,
+        "points": 12,
+        "random": 15,
+        "access": 15,
+        "phylogenetic": 14,
+        "key": 14
+      },
+      "word_count": 1435,
+      "char_count": 10516,
+      "processed": false
+    },
+    "raw_notes/DSB talk transcript + question.md": {
+      "title": "DSB talk transcript + question",
+      "raw_tags": [
+        "genomes",
+        "species",
+        "compression",
+        "batches",
+        "access",
+        "phylogenetic",
+        "skeleton",
+        "genome"
+      ],
+      "top_terms": {
+        "genomes": 32,
+        "species": 25,
+        "compression": 17,
+        "batches": 15,
+        "access": 9,
+        "phylogenetic": 10,
+        "skeleton": 8,
+        "genome": 11
+      },
+      "word_count": 1162,
+      "char_count": 8622,
+      "processed": false
+    },
+    "raw_notes/EXP 071.md": {
+      "title": "EXP 071",
+      "raw_tags": [
+        "experiments",
+        "sed",
+        "cat",
+        "xargs",
+        "basename",
+        "txt"
+      ],
+      "top_terms": {
+        "experiments": 3,
+        "sed": 1,
+        "cat": 1,
+        "xargs": 1,
+        "basename": 1,
+        "txt": 1
+      },
+      "word_count": 22,
+      "char_count": 368,
+      "processed": false
+    },
+    "raw_notes/Efficient Argmin Calculation and Grouping Workflow for Large TSV Files.md": {
+      "title": "Efficient Argmin Calculation and Grouping Workflow for Large TSV Files",
+      "raw_tags": [
+        "idx",
+        "row",
+        "open",
+        "names",
+        "awk",
+        "argmin",
+        "min",
+        "name"
+      ],
+      "top_terms": {
+        "idx": 19,
+        "row": 19,
+        "open": 21,
+        "names": 17,
+        "awk": 17,
+        "argmin": 11,
+        "min": 12,
+        "name": 15
+      },
+      "word_count": 809,
+      "char_count": 5737,
+      "processed": false
+    },
+    "raw_notes/Fast size calculation.md": {
+      "title": "Fast size calculation",
+      "raw_tags": [
+        "total",
+        "time",
+        "remaining",
+        "sum",
+        "systime",
+        "elapsed",
+        "printf",
+        "int"
+      ],
+      "top_terms": {
+        "total": 9,
+        "time": 8,
+        "remaining": 5,
+        "sum": 4,
+        "systime": 3,
+        "elapsed": 3,
+        "printf": 3,
+        "int": 3
+      },
+      "word_count": 152,
+      "char_count": 1142,
+      "processed": false
+    },
+    "raw_notes/Formulation batching.md": {
+      "title": "Formulation batching",
+      "raw_tags": [
+        "batch",
+        "size",
+        "compressed",
+        "tot",
+        "constraints",
+        "batches",
+        "j-1",
+        "uncompressed"
+      ],
+      "top_terms": {
+        "batch": 64,
+        "size": 59,
+        "compressed": 40,
+        "tot": 24,
+        "constraints": 31,
+        "batches": 35,
+        "j-1": 20,
+        "uncompressed": 22
+      },
+      "word_count": 3579,
+      "char_count": 25624,
+      "processed": false
+    },
+    "raw_notes/GDRBimm.md": {
+      "title": "GDRBimm",
+      "raw_tags": [
+        "mission",
+        "jeune",
+        "chercheur",
+        "team"
+      ],
+      "top_terms": {
+        "mission": 1,
+        "jeune": 1,
+        "chercheur": 1,
+        "team": 1
+      },
+      "word_count": 6,
+      "char_count": 36,
+      "processed": false
+    },
+    "raw_notes/GTBD experiment step by step.md": {
+      "title": "GTBD experiment step by step",
+      "raw_tags": [
+        "download",
+        "folder",
+        "metadata",
+        "extract",
+        "website",
+        "maybe",
+        "dehydrate",
+        "rehydrate"
+      ],
+      "top_terms": {
+        "download": 3,
+        "folder": 2,
+        "metadata": 2,
+        "extract": 2,
+        "website": 1,
+        "maybe": 1,
+        "dehydrate": 1,
+        "rehydrate": 1
+      },
+      "word_count": 57,
+      "char_count": 359,
+      "processed": false
+    },
+    "raw_notes/GenOuest Formation Assemblage et annotation de genome.md": {
+      "title": "GenOuest Formation Assemblage et annotation de genome",
+      "raw_tags": [
+        "assembly",
+        "scaffold",
+        "galaxy",
+        "contig",
+        "reference",
+        "reads",
+        "format",
+        "bam"
+      ],
+      "top_terms": {
+        "assembly": 14,
+        "scaffold": 5,
+        "galaxy": 4,
+        "contig": 4,
+        "reference": 4,
+        "reads": 4,
+        "format": 4,
+        "bam": 3
+      },
+      "word_count": 332,
+      "char_count": 2314,
+      "processed": false
+    },
+    "raw_notes/HIGHLEVEL BATCHING FORMULIZATION.md": {
+      "title": "HIGHLEVEL BATCHING FORMULIZATION",
+      "raw_tags": [
+        "batches",
+        "batch",
+        "objective",
+        "size",
+        "genomes",
+        "compressed",
+        "uncompressed",
+        "minimize"
+      ],
+      "top_terms": {
+        "batches": 15,
+        "batch": 13,
+        "objective": 8,
+        "size": 12,
+        "genomes": 10,
+        "compressed": 8,
+        "uncompressed": 6,
+        "minimize": 6
+      },
+      "word_count": 819,
+      "char_count": 5183,
+      "processed": false
+    },
+    "raw_notes/High Quality Genomes.md": {
+      "title": "High Quality Genomes",
+      "raw_tags": [
+        "majority",
+        "least",
+        "species",
+        "insdc",
+        "checkm2-completeness",
+        "checkm2-contamination",
+        "abundance",
+        "runs"
+      ],
+      "top_terms": {
+        "majority": 2,
+        "least": 2,
+        "species": 2,
+        "insdc": 1,
+        "checkm2-completeness": 1,
+        "checkm2-contamination": 1,
+        "abundance": 1,
+        "runs": 1
+      },
+      "word_count": 47,
+      "char_count": 293,
+      "processed": false
+    },
+    "raw_notes/JellyFish paper.md": {
+      "title": "JellyFish paper",
+      "raw_tags": [
+        "hash",
+        "table",
+        "memory",
+        "min-heap",
+        "structure",
+        "update",
+        "bit-packing",
+        "stores"
+      ],
+      "top_terms": {
+        "hash": 5,
+        "table": 4,
+        "memory": 5,
+        "min-heap": 3,
+        "structure": 3,
+        "update": 2,
+        "bit-packing": 2,
+        "stores": 2
+      },
+      "word_count": 200,
+      "char_count": 1485,
+      "processed": false
+    },
+    "raw_notes/JellyFish2.md": {
+      "title": "JellyFish2",
+      "raw_tags": [
+        "couldnt",
+        "install"
+      ],
+      "top_terms": {
+        "couldnt": 1,
+        "install": 1
+      },
+      "word_count": 2,
+      "char_count": 16,
+      "processed": false
+    },
+    "raw_notes/Kmers counter.md": {
+      "title": "Kmers counter",
+      "raw_tags": [
+        "couldn",
+        "install",
+        "source"
+      ],
+      "top_terms": {
+        "couldn": 1,
+        "install": 1,
+        "source": 1
+      },
+      "word_count": 4,
+      "char_count": 28,
+      "processed": false
+    },
+    "raw_notes/MBGC.md": {
+      "title": "MBGC",
+      "raw_tags": [
+        "mbgc",
+        "basename",
+        "txt",
+        "compressor"
+      ],
+      "top_terms": {
+        "mbgc": 4,
+        "basename": 2,
+        "txt": 2,
+        "compressor": 1
+      },
+      "word_count": 39,
+      "char_count": 247,
+      "processed": false
+    },
+    "raw_notes/MLflow.md": {
+      "title": "MLflow",
+      "raw_tags": [
+        "mlflow",
+        "tracking",
+        "keywords",
+        "experiment"
+      ],
+      "top_terms": {
+        "mlflow": 1,
+        "tracking": 1,
+        "keywords": 1,
+        "experiment": 1
+      },
+      "word_count": 5,
+      "char_count": 41,
+      "processed": false
+    },
+    "raw_notes/Mash.md": {
+      "title": "Mash",
+      "raw_tags": [
+        "mash",
+        "sequences",
+        "sketches",
+        "txt",
+        "msh",
+        "sketch",
+        "minhash",
+        "hash"
+      ],
+      "top_terms": {
+        "mash": 8,
+        "sequences": 6,
+        "sketches": 5,
+        "txt": 7,
+        "msh": 3,
+        "sketch": 4,
+        "minhash": 3,
+        "hash": 3
+      },
+      "word_count": 175,
+      "char_count": 1390,
+      "processed": false
+    },
+    "raw_notes/Mashtree.md": {
+      "title": "Mashtree",
+      "raw_tags": [
+        "confidence",
+        "trees",
+        "k-mers",
+        "replacement",
+        "replicates",
+        "calculates",
+        "bootstrapping",
+        "jackknifing"
+      ],
+      "top_terms": {
+        "confidence": 3,
+        "trees": 3,
+        "k-mers": 3,
+        "replacement": 2,
+        "replicates": 2,
+        "calculates": 2,
+        "bootstrapping": 2,
+        "jackknifing": 2
+      },
+      "word_count": 138,
+      "char_count": 978,
+      "processed": false
+    },
+    "raw_notes/Math.md": {
+      "title": "Math",
+      "raw_tags": [
+        "card",
+        "minimize",
+        "must",
+        "batch",
+        "representation",
+        "set",
+        "your",
+        "problem"
+      ],
+      "top_terms": {
+        "card": 4,
+        "minimize": 3,
+        "must": 3,
+        "batch": 3,
+        "representation": 2,
+        "set": 3,
+        "your": 2,
+        "problem": 2
+      },
+      "word_count": 154,
+      "char_count": 985,
+      "processed": false
+    },
+    "raw_notes/Mean Squared Error (MSE) and Similar Techniques.md": {
+      "title": "Mean Squared Error (MSE) and Similar Techniques",
+      "raw_tags": [
+        "mse",
+        "actual",
+        "mae",
+        "rmse",
+        "predicted",
+        "error",
+        "values",
+        "metrics"
+      ],
+      "top_terms": {
+        "mse": 18,
+        "actual": 12,
+        "mae": 9,
+        "rmse": 8,
+        "predicted": 8,
+        "error": 10,
+        "values": 8,
+        "metrics": 7
+      },
+      "word_count": 549,
+      "char_count": 4176,
+      "processed": false
+    },
+    "raw_notes/MinHash.md": {
+      "title": "MinHash",
+      "raw_tags": [
+        "mash"
+      ],
+      "top_terms": {
+        "mash": 1
+      },
+      "word_count": 1,
+      "char_count": 5,
+      "processed": false
+    },
+    "raw_notes/Misc.md": {
+      "title": "Misc",
+      "raw_tags": [
+        "g0635",
+        "est",
+        "dashing",
+        "version",
+        "size",
+        "kmers",
+        "dashing2",
+        "save"
+      ],
+      "top_terms": {
+        "g0635": 13,
+        "est": 13,
+        "dashing": 13,
+        "version": 13,
+        "size": 13,
+        "kmers": 3,
+        "dashing2": 2,
+        "save": 2
+      },
+      "word_count": 166,
+      "char_count": 2330,
+      "processed": false
+    },
+    "raw_notes/My pending jobs.md": {
+      "title": "My pending jobs",
+      "raw_tags": [
+        "snakefile",
+        "dir",
+        "snakemake",
+        "config",
+        "cores",
+        "workflow",
+        "rerun-incomplete",
+        "sketch"
+      ],
+      "top_terms": {
+        "snakefile": 30,
+        "dir": 30,
+        "snakemake": 15,
+        "config": 15,
+        "cores": 15,
+        "workflow": 15,
+        "rerun-incomplete": 7,
+        "sketch": 6
+      },
+      "word_count": 182,
+      "char_count": 3904,
+      "processed": false
+    },
+    "raw_notes/NCBI datasets.md": {
+      "title": "NCBI datasets",
+      "raw_tags": [
+        "accession",
+        "inputfile",
+        "bac",
+        "dehydrated",
+        "cds",
+        "rna",
+        "protein",
+        "gff"
+      ],
+      "top_terms": {
+        "accession": 2,
+        "inputfile": 1,
+        "bac": 1,
+        "dehydrated": 1,
+        "cds": 1,
+        "rna": 1,
+        "protein": 1,
+        "gff": 1
+      },
+      "word_count": 13,
+      "char_count": 173,
+      "processed": false
+    },
+    "raw_notes/Naming.md": {
+      "title": "Naming",
+      "raw_tags": [
+        "phylord"
+      ],
+      "top_terms": {
+        "phylord": 1
+      },
+      "word_count": 1,
+      "char_count": 8,
+      "processed": false
+    },
+    "raw_notes/Neural inference for evolutionary genomics.md": {
+      "title": "Neural inference for evolutionary genomics",
+      "raw_tags": [
+        "probabilistic",
+        "relate",
+        "observations",
+        "parameters",
+        "models"
+      ],
+      "top_terms": {
+        "probabilistic": 1,
+        "relate": 1,
+        "observations": 1,
+        "parameters": 1,
+        "models": 1
+      },
+      "word_count": 6,
+      "char_count": 55,
+      "processed": false
+    },
+    "raw_notes/Note 01 09 2025.md": {
+      "title": "Note 01 09 2025",
+      "raw_tags": [
+        "order",
+        "axis",
+        "put",
+        "specific",
+        "form",
+        "next",
+        "problem",
+        "compression"
+      ],
+      "top_terms": {
+        "order": 4,
+        "axis": 2,
+        "put": 2,
+        "specific": 2,
+        "form": 2,
+        "next": 2,
+        "problem": 2,
+        "compression": 2
+      },
+      "word_count": 87,
+      "char_count": 557,
+      "processed": false
+    },
+    "raw_notes/Online Courses.md": {
+      "title": "Online Courses",
+      "raw_tags": [],
+      "top_terms": {},
+      "word_count": 1,
+      "char_count": 43,
+      "processed": false
+    },
+    "raw_notes/PhyloPack preorder ATB.md": {
+      "title": "PhyloPack preorder ATB",
+      "raw_tags": [
+        "cluster",
+        "preorder",
+        "cut-point",
+        "statistic",
+        "txt",
+        "debug",
+        "phylopack",
+        "experiments"
+      ],
+      "top_terms": {
+        "cluster": 5,
+        "preorder": 2,
+        "cut-point": 2,
+        "statistic": 2,
+        "txt": 4,
+        "debug": 2,
+        "phylopack": 2,
+        "experiments": 2
+      },
+      "word_count": 40,
+      "char_count": 679,
+      "processed": false
+    },
+    "raw_notes/Phylogenetic confidence values.md": {
+      "title": "Phylogenetic confidence values",
+      "raw_tags": [
+        "bootstrapping",
+        "jackknifing"
+      ],
+      "top_terms": {
+        "bootstrapping": 1,
+        "jackknifing": 1
+      },
+      "word_count": 3,
+      "char_count": 29,
+      "processed": false
+    },
+    "raw_notes/Phylogeny.md": {
+      "title": "Phylogeny",
+      "raw_tags": [
+        "tree",
+        "minimum-evolution",
+        "parsimonious",
+        "operational",
+        "unit",
+        "taxonomic"
+      ],
+      "top_terms": {
+        "tree": 2,
+        "minimum-evolution": 1,
+        "parsimonious": 1,
+        "operational": 1,
+        "unit": 1,
+        "taxonomic": 1
+      },
+      "word_count": 7,
+      "char_count": 67,
+      "processed": false
+    },
+    "raw_notes/Question.md": {
+      "title": "Question",
+      "raw_tags": [
+        "mapping",
+        "clustering",
+        "read"
+      ],
+      "top_terms": {
+        "mapping": 1,
+        "clustering": 1,
+        "read": 1
+      },
+      "word_count": 4,
+      "char_count": 26,
+      "processed": false
+    },
+    "raw_notes/README.md": {
+      "title": "README",
+      "raw_tags": [
+        "workspace"
+      ],
+      "top_terms": {
+        "workspace": 1
+      },
+      "word_count": 2,
+      "char_count": 14,
+      "processed": false
+    },
+    "raw_notes/Raptor.md": {
+      "title": "Raptor",
+      "raw_tags": [
+        "build",
+        "hibf",
+        "call",
+        "error",
+        "openmp",
+        "compiler",
+        "stack",
+        "recent"
+      ],
+      "top_terms": {
+        "build": 3,
+        "hibf": 2,
+        "call": 2,
+        "error": 2,
+        "openmp": 1,
+        "compiler": 1,
+        "stack": 1,
+        "recent": 1
+      },
+      "word_count": 25,
+      "char_count": 305,
+      "processed": false
+    },
+    "raw_notes/Recap feature selection in high dimensional genomics data.md": {
+      "title": "Recap feature selection in high dimensional genomics data",
+      "raw_tags": [
+        "chloe-agathe",
+        "azencott"
+      ],
+      "top_terms": {
+        "chloe-agathe": 1,
+        "azencott": 1
+      },
+      "word_count": 2,
+      "char_count": 21,
+      "processed": false
+    },
+    "raw_notes/Rust.md": {
+      "title": "Rust",
+      "raw_tags": [
+        "attribute",
+        "applies",
+        "unused",
+        "attr",
+        "module",
+        "derive",
+        "struct",
+        "rectangle"
+      ],
+      "top_terms": {
+        "attribute": 4,
+        "applies": 4,
+        "unused": 3,
+        "attr": 2,
+        "module": 2,
+        "derive": 2,
+        "struct": 2,
+        "rectangle": 2
+      },
+      "word_count": 127,
+      "char_count": 1010,
+      "processed": false
+    },
+    "raw_notes/The process of writing.md": {
+      "title": "The process of writing",
+      "raw_tags": [
+        "hierarchy",
+        "semi",
+        "linearisation",
+        "ideas",
+        "dimension",
+        "hal",
+        "technical",
+        "details"
+      ],
+      "top_terms": {
+        "hierarchy": 1,
+        "semi": 1,
+        "linearisation": 1,
+        "ideas": 1,
+        "dimension": 1,
+        "hal": 1,
+        "technical": 1,
+        "details": 1
+      },
+      "word_count": 20,
+      "char_count": 131,
+      "processed": false
+    },
+    "raw_notes/Transcribed seqbim.md": {
+      "title": "Transcribed seqbim",
+      "raw_tags": [
+        "genomes",
+        "species",
+        "compression",
+        "phylogenetic",
+        "extraction",
+        "skeleton",
+        "phrase",
+        "percent"
+      ],
+      "top_terms": {
+        "genomes": 41,
+        "species": 31,
+        "compression": 28,
+        "phylogenetic": 19,
+        "extraction": 12,
+        "skeleton": 11,
+        "phrase": 7,
+        "percent": 7
+      },
+      "word_count": 1683,
+      "char_count": 11712,
+      "processed": false
+    },
+    "raw_notes/Transcript DSB.md": {
+      "title": "Transcript DSB",
+      "raw_tags": [
+        "genomes",
+        "species",
+        "compression",
+        "phylogenetic",
+        "atb",
+        "isolates",
+        "compressed",
+        "collections"
+      ],
+      "top_terms": {
+        "genomes": 36,
+        "species": 17,
+        "compression": 17,
+        "phylogenetic": 11,
+        "atb": 9,
+        "isolates": 8,
+        "compressed": 9,
+        "collections": 8
+      },
+      "word_count": 1364,
+      "char_count": 9639,
+      "processed": false
+    },
+    "raw_notes/Vertical and horizontal inheritance.md": {
+      "title": "Vertical and horizontal inheritance",
+      "raw_tags": [
+        "dna",
+        "genetic",
+        "plasmids",
+        "mobile",
+        "element",
+        "extrachromosomal",
+        "cell",
+        "sometimes"
+      ],
+      "top_terms": {
+        "dna": 6,
+        "genetic": 5,
+        "plasmids": 4,
+        "mobile": 3,
+        "element": 3,
+        "extrachromosomal": 2,
+        "cell": 2,
+        "sometimes": 2
+      },
+      "word_count": 174,
+      "char_count": 2322,
+      "processed": false
+    },
+    "raw_notes/add sketches path.md": {
+      "title": "add sketches path",
+      "raw_tags": [
+        "spacing",
+        "hll"
+      ],
+      "top_terms": {
+        "spacing": 1,
+        "hll": 1
+      },
+      "word_count": 2,
+      "char_count": 70,
+      "processed": false
+    },
+    "raw_notes/agc listset to file list.md": {
+      "title": "agc listset to file list",
+      "raw_tags": [
+        "archive",
+        "archives",
+        "fof",
+        "base",
+        "contains",
+        "agc",
+        "listset",
+        "same1019231"
+      ],
+      "top_terms": {
+        "archive": 9,
+        "archives": 4,
+        "fof": 3,
+        "base": 2,
+        "contains": 2,
+        "agc": 2,
+        "listset": 1,
+        "same1019231": 1
+      },
+      "word_count": 73,
+      "char_count": 601,
+      "processed": false
+    },
+    "raw_notes/benchmark runtime.md": {
+      "title": "benchmark runtime",
+      "raw_tags": [
+        "time",
+        "benchmark",
+        "log",
+        "average",
+        "individual",
+        "total",
+        "goal",
+        "per"
+      ],
+      "top_terms": {
+        "time": 4,
+        "benchmark": 1,
+        "log": 1,
+        "average": 1,
+        "individual": 1,
+        "total": 1,
+        "goal": 1,
+        "per": 1
+      },
+      "word_count": 15,
+      "char_count": 103,
+      "processed": false
+    },
+    "raw_notes/compression ratio calculation.md": {
+      "title": "compression ratio calculation",
+      "raw_tags": [
+        "pasted",
+        "png",
+        "image"
+      ],
+      "top_terms": {
+        "pasted": 1,
+        "png": 1,
+        "image": 1
+      },
+      "word_count": 3,
+      "char_count": 36,
+      "processed": false
+    },
+    "raw_notes/compressor.md": {
+      "title": "compressor",
+      "raw_tags": [
+        "compression",
+        "speed",
+        "window",
+        "sliding",
+        "default",
+        "zstd",
+        "high",
+        "decompression"
+      ],
+      "top_terms": {
+        "compression": 19,
+        "speed": 8,
+        "window": 5,
+        "sliding": 5,
+        "default": 4,
+        "zstd": 4,
+        "high": 5,
+        "decompression": 4
+      },
+      "word_count": 259,
+      "char_count": 1817,
+      "processed": false
+    },
+    "raw_notes/dasing and dashing2.md": {
+      "title": "dasing and dashing2",
+      "raw_tags": [
+        "arg",
+        "dashing2",
+        "kmer",
+        "k-mers",
+        "written",
+        "cmpout",
+        "save-kmers",
+        "saved"
+      ],
+      "top_terms": {
+        "arg": 4,
+        "dashing2": 4,
+        "kmer": 4,
+        "k-mers": 4,
+        "written": 3,
+        "cmpout": 2,
+        "save-kmers": 2,
+        "saved": 2
+      },
+      "word_count": 146,
+      "char_count": 1034,
+      "processed": false
+    },
+    "raw_notes/download from refseq.md": {
+      "title": "download from refseq",
+      "raw_tags": [
+        "ftp",
+        "wget"
+      ],
+      "top_terms": {
+        "ftp": 1,
+        "wget": 1
+      },
+      "word_count": 2,
+      "char_count": 77,
+      "processed": false
+    },
+    "raw_notes/download from zenodo single line.md": {
+      "title": "download from zenodo single line",
+      "raw_tags": [
+        "url",
+        "name",
+        "curl",
+        "links",
+        "json",
+        "key",
+        "dwnload",
+        "ifs"
+      ],
+      "top_terms": {
+        "url": 3,
+        "name": 3,
+        "curl": 2,
+        "links": 2,
+        "json": 2,
+        "key": 2,
+        "dwnload": 1,
+        "ifs": 1
+      },
+      "word_count": 54,
+      "char_count": 326,
+      "processed": false
+    },
+    "raw_notes/grep memo.md": {
+      "title": "grep memo",
+      "raw_tags": [
+        "grep",
+        "txt",
+        "fvx",
+        "file1",
+        "file2",
+        "ids",
+        "match",
+        "differences"
+      ],
+      "top_terms": {
+        "grep": 12,
+        "txt": 17,
+        "fvx": 5,
+        "file1": 6,
+        "file2": 6,
+        "ids": 4,
+        "match": 4,
+        "differences": 3
+      },
+      "word_count": 253,
+      "char_count": 1680,
+      "processed": false
+    },
+    "raw_notes/miniphy2 workflow requirements.md": {
+      "title": "miniphy2 workflow requirements",
+      "raw_tags": [
+        "workflow",
+        "snakemake",
+        "inplace",
+        "no-recursion",
+        "file-extension",
+        "snakefile",
+        "dir",
+        "batches"
+      ],
+      "top_terms": {
+        "workflow": 7,
+        "snakemake": 3,
+        "inplace": 2,
+        "no-recursion": 2,
+        "file-extension": 2,
+        "snakefile": 2,
+        "dir": 2,
+        "batches": 2
+      },
+      "word_count": 75,
+      "char_count": 1273,
+      "processed": false
+    },
+    "raw_notes/miniphy2.md": {
+      "title": "miniphy2",
+      "raw_tags": [
+        "fof",
+        "compress",
+        "miniphy2",
+        "batch",
+        "lfo",
+        "string",
+        "exited",
+        "non-zero"
+      ],
+      "top_terms": {
+        "fof": 15,
+        "compress": 17,
+        "miniphy2": 10,
+        "batch": 15,
+        "lfo": 8,
+        "string": 10,
+        "exited": 8,
+        "non-zero": 8
+      },
+      "word_count": 365,
+      "char_count": 10496,
+      "processed": false
+    },
+    "raw_notes/outer difference of txt file 1 and file 2.md": {
+      "title": "outer difference of txt file 1 and file 2",
+      "raw_tags": [
+        "file2",
+        "match",
+        "txt",
+        "file1",
+        "minus",
+        "needing",
+        "fxv",
+        "outer"
+      ],
+      "top_terms": {
+        "file2": 5,
+        "match": 3,
+        "txt": 4,
+        "file1": 2,
+        "minus": 1,
+        "needing": 1,
+        "fxv": 1,
+        "outer": 1
+      },
+      "word_count": 68,
+      "char_count": 539,
+      "processed": false
+    },
+    "raw_notes/paper and plan.md": {
+      "title": "paper and plan",
+      "raw_tags": [
+        "recomb",
+        "check",
+        "specification",
+        "page",
+        "alternative",
+        "confe",
+        "poster",
+        "magnify"
+      ],
+      "top_terms": {
+        "recomb": 2,
+        "check": 2,
+        "specification": 1,
+        "page": 1,
+        "alternative": 1,
+        "confe": 1,
+        "poster": 1,
+        "magnify": 1
+      },
+      "word_count": 76,
+      "char_count": 439,
+      "processed": false
+    },
+    "raw_notes/pseudo code bin packing.md": {
+      "title": "pseudo code bin packing",
+      "raw_tags": [
+        "bin",
+        "bins",
+        "placed",
+        "genome",
+        "kmers",
+        "estimate",
+        "threshold",
+        "distinct"
+      ],
+      "top_terms": {
+        "bin": 10,
+        "bins": 6,
+        "placed": 7,
+        "genome": 9,
+        "kmers": 4,
+        "estimate": 4,
+        "threshold": 3,
+        "distinct": 3
+      },
+      "word_count": 159,
+      "char_count": 1162,
+      "processed": false
+    },
+    "raw_notes/psuedocode.md": {
+      "title": "psuedocode",
+      "raw_tags": [
+        "size",
+        "generate",
+        "phase",
+        "finalplacementorder",
+        "stats",
+        "batch",
+        "placement",
+        "tree"
+      ],
+      "top_terms": {
+        "size": 9,
+        "generate": 5,
+        "phase": 3,
+        "finalplacementorder": 3,
+        "stats": 3,
+        "batch": 5,
+        "placement": 3,
+        "tree": 4
+      },
+      "word_count": 175,
+      "char_count": 1486,
+      "processed": false
+    },
+    "raw_notes/script seqbim 2025.md": {
+      "title": "script seqbim 2025",
+      "raw_tags": [
+        "slide",
+        "pause",
+        "species",
+        "genomes",
+        "compression",
+        "phylogenetic",
+        "skeleton",
+        "extraction"
+      ],
+      "top_terms": {
+        "slide": 35,
+        "pause": 21,
+        "species": 31,
+        "genomes": 36,
+        "compression": 32,
+        "phylogenetic": 20,
+        "skeleton": 12,
+        "extraction": 12
+      },
+      "word_count": 1749,
+      "char_count": 11066,
+      "processed": false
+    },
+    "raw_notes/sed command.md": {
+      "title": "sed command",
+      "raw_tags": [
+        "sed",
+        "remove",
+        "txt",
+        "hll",
+        "tail",
+        "compress",
+        "prepend",
+        "grep"
+      ],
+      "top_terms": {
+        "sed": 23,
+        "remove": 7,
+        "txt": 11,
+        "hll": 4,
+        "tail": 4,
+        "compress": 5,
+        "prepend": 3,
+        "grep": 4
+      },
+      "word_count": 368,
+      "char_count": 2799,
+      "processed": false
+    },
+    "raw_notes/seqkit hashing.md": {
+      "title": "seqkit hashing",
+      "raw_tags": [
+        "txt",
+        "seqkit",
+        "pigz",
+        "sum",
+        "cat",
+        "original",
+        "xargs",
+        "cut"
+      ],
+      "top_terms": {
+        "txt": 2,
+        "seqkit": 1,
+        "pigz": 1,
+        "sum": 1,
+        "cat": 1,
+        "original": 1,
+        "xargs": 1,
+        "cut": 1
+      },
+      "word_count": 29,
+      "char_count": 195,
+      "processed": false
+    },
+    "raw_notes/split and gsplit.md": {
+      "title": "split and gsplit",
+      "raw_tags": [
+        "split",
+        "txt",
+        "part",
+        "numeric",
+        "suffix",
+        "chunk",
+        "additional-suffix",
+        "parts"
+      ],
+      "top_terms": {
+        "split": 15,
+        "txt": 11,
+        "part": 6,
+        "numeric": 3,
+        "suffix": 3,
+        "chunk": 3,
+        "additional-suffix": 3,
+        "parts": 2
+      },
+      "word_count": 216,
+      "char_count": 1644,
+      "processed": false
+    },
+    "raw_notes/step by step.md": {
+      "title": "step by step",
+      "raw_tags": [
+        "put"
+      ],
+      "top_terms": {
+        "put": 1
+      },
+      "word_count": 2,
+      "char_count": 6,
+      "processed": false
+    },
+    "raw_notes/xargs.md": {
+      "title": "xargs",
+      "raw_tags": [
+        "tmpdir",
+        "tar",
+        "folder",
+        "parallel",
+        "pigz",
+        "archive",
+        "cpu",
+        "compressed"
+      ],
+      "top_terms": {
+        "tmpdir": 14,
+        "tar": 11,
+        "folder": 8,
+        "parallel": 8,
+        "pigz": 6,
+        "archive": 5,
+        "cpu": 4,
+        "compressed": 5
+      },
+      "word_count": 459,
+      "char_count": 3040,
+      "processed": false
+    }
+  }
+}

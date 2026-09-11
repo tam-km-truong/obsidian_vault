@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - agc
+  - mags
+  - ref
+  - gzipped
+  - getcol
+  - head
+  - processed
+  - compressor
+word_count: 52
+char_count: 318
+processed: false
+---
+
 ```bash
 for f in data/batches/subdir_1/*; do ref=$(head -n 1 $f); echo $f; agc create -a -b 500 -s 1500 -t 25 -v 2 -o results/agc/$(basename $f .txt).agc -i $f $ref; done
 ```

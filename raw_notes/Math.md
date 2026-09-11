@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - card
+  - minimize
+  - must
+  - batch
+  - representation
+  - set
+  - your
+  - problem
+word_count: 154
+char_count: 985
+processed: false
+---
+
 Here is the mathematical representation of your problem as an equation or set of conditions:
 
 Let:

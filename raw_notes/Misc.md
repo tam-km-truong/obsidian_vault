@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - g0635
+  - est
+  - dashing
+  - version
+  - size
+  - kmers
+  - dashing2
+  - save
+word_count: 166
+char_count: 2330
+processed: false
+---
+
 jellyfish to count kmers
 dashing2 sketch set options to save kmers and save kmers file but output file is in binary format
 found the output file in dashing2, modified it to human readable

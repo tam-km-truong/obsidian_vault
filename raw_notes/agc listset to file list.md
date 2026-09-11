@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - archive
+  - archives
+  - fof
+  - base
+  - contains
+  - agc
+  - listset
+  - same1019231
+word_count: 73
+char_count: 601
+processed: false
+---
+
 If `archives.fof` contains one archive path per line:
 
 ```bash

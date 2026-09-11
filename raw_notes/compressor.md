@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - compression
+  - speed
+  - window
+  - sliding
+  - default
+  - zstd
+  - high
+  - decompression
+word_count: 259
+char_count: 1817
+processed: false
+---
+
 From a discussion with Tam who was looking for paper about compressors, there are some recap papers on dictionary-based compressors, here are some assertions about some of them (none of compressors have a single official publication)
 
 To improve compression, all following algorithm can increase their sliding window to catch further redundancies and may have some extra features. Increasing the sliding window size will also increase compression time and the gain won't necessarily be worth the extra time required.

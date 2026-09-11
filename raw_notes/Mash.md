@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - mash
+  - sequences
+  - sketches
+  - txt
+  - msh
+  - sketch
+  - minhash
+  - hash
+word_count: 175
+char_count: 1390
+processed: false
+---
+
 #mash
 ### In a nutshell
 Mash uses the MinHash technique to create "sketches" of sequences,small, representation of sequences

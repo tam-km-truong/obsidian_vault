@@ -1,3 +1,17 @@
+---
+raw_tags:
+  - idx
+  - row
+  - open
+  - names
+  - awk
+  - argmin
+  - min
+  - name
+word_count: 809
+char_count: 5737
+processed: false
+---
 
 ## 1. **Initial Problem Setup**
 

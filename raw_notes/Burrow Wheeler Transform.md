@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - string
+  - sort
+  - last
+  - pasted
+  - png
+  - image
+  - take
+  - add
+word_count: 46
+char_count: 295
+processed: false
+---
+
 input string, rotate the input string, sort the rotated strings into lexical order, take the last columns
 ![[Pasted image 20241203141226.png]]
 TO REVERSE

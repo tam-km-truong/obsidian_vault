@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - cluster
+  - preorder
+  - cut-point
+  - statistic
+  - txt
+  - debug
+  - phylopack
+  - experiments
+word_count: 40
+char_count: 679
+processed: false
+---
+
 phylopack preorder experiments/098_EXPE_GTDB_recompression/data/maj_spc_clusters_full_path/s__Escherichia_coli.txt --cut-point 0.4 -o experiments/098_EXPE_GTDB_recompression/data/skeleton_phylogenies/s__Escherichia_coli/s__Escherichia_coli_preordered.txt -v --statistic --debug
 
 ```

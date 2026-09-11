@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - species
+  - dataset
+  - contamination
+  - genome
+  - taxonomic
+  - completeness
+  - assemblies
+  - quality
+word_count: 380
+char_count: 2895
+processed: false
+---
+
 comprehensive dataset of bacterial genomes
 addressing issues with inconsistent and inaccessible public genomic data. 
 Building on the 2018 "661k" dataset, expands the collection to 1.9 million uniformly processed assemblies, with quality control and taxonomic consistency.

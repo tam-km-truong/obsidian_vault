@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - bin
+  - bins
+  - placed
+  - genome
+  - kmers
+  - estimate
+  - threshold
+  - distinct
+word_count: 159
+char_count: 1162
+processed: false
+---
+
 bins = []  # list of bins, each bin is a list of genomes
 kmer_threshold = MAX_KMERS_PER_BIN  # e.g., 700,000,000
 

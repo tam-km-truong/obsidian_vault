@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - grep
+  - txt
+  - fvx
+  - file1
+  - file2
+  - ids
+  - match
+  - differences
+word_count: 253
+char_count: 1680
+processed: false
+---
+
 ## 1. Check differences using `grep`
 
 ### A. Lines in `file1.txt` **not present** in `file2.txt`

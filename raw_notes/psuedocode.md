@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - size
+  - generate
+  - phase
+  - finalplacementorder
+  - stats
+  - batch
+  - placement
+  - tree
+word_count: 175
+char_count: 1486
+processed: false
+---
+
 PROCEDURE RunPreorderPipeline(Arguments):
     // 1. Setup
     CREATE TemporaryDirectory

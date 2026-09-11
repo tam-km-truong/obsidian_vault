@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - arg
+  - dashing2
+  - kmer
+  - k-mers
+  - written
+  - cmpout
+  - save-kmers
+  - saved
+word_count: 146
+char_count: 1034
+processed: false
+---
+
 The specific command is:  
 
 ./dashing2_savx2 sketch -s -N -o ./output/result -F ./data/mycoplasma_pneumoniae__01.txt --cmpout cmp.txt

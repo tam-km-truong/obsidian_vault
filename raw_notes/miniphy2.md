@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - fof
+  - compress
+  - miniphy2
+  - batch
+  - lfo
+  - string
+  - exited
+  - non-zero
+word_count: 365
+char_count: 10496
+processed: false
+---
+
 ./miniphy2 compress 
 --output: path to output file
 --list: input is a list

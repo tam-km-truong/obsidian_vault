@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - workflow
+  - snakemake
+  - inplace
+  - no-recursion
+  - file-extension
+  - snakefile
+  - dir
+  - batches
+word_count: 75
+char_count: 1273
+processed: false
+---
+
 snakemake
 ete3
 attotree

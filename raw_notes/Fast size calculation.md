@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - total
+  - time
+  - remaining
+  - sum
+  - systime
+  - elapsed
+  - printf
+  - int
+word_count: 152
+char_count: 1142
+processed: false
+---
+
 ```bash
 sed 's|^|fasta/|' ls_fasta.txt | xargs -d '\n' du -sb | awk -v total=715000 '
 BEGIN {

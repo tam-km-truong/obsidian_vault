@@ -1,3 +1,18 @@
+---
+raw_tags:
+  - tmpdir
+  - tar
+  - folder
+  - parallel
+  - pigz
+  - archive
+  - cpu
+  - compressed
+word_count: 459
+char_count: 3040
+processed: false
+---
+
 # TLDR
 
 mkdir -p output

@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - build
-  - hibf
-  - call
-  - error
-  - openmp
-  - compiler
-  - stack
-  - recent
-word_count: 50
-char_count: 455
-processed: false
+  - "hibf requires openmp"
+  - "recent call first"
+  - "cmake error"
+  - "your compiler"
+  - "call stack"
+  - hibf_config_error
+  - support
+word_count: 64
+char_count: 591
+processed: true
+processed_note: \"[[Raptor - Hierarchical Interleaved Bloom Filters]]\"
 ---
 
 CMake Error at build/_deps/hibf-src/cmake/configuration.cmake:50 (message):

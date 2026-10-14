@@ -4,13 +4,14 @@ raw_tags:
   - remove
   - txt
   - hll
-  - tail
   - compress
   - prepend
+  - tail
   - grep
-word_count: 393
-char_count: 2946
-processed: false
+word_count: 400
+char_count: 3001
+processed: true
+processed_note: \"[[CLI - Stream Editor (sed) Recipes]]\"
 ---
 
 You're using `sed` effectively for string editing in text processing! Here's a breakdown of each command you listed and a **TL;DR-style** summary you can refer to for future `sed` use:

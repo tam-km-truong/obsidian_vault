@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - hash
-  - table
+  - "hash table"
   - memory
-  - min-heap
-  - structure
-  - update
-  - bit-packing
-  - stores
-word_count: 225
-char_count: 1649
-processed: false
+  - "key compression"
+  - "bit-packing"
+  - "min-heap"
+  - "values don match"
+  - "tightly arranging bits"
+  - "complete binary tree"
+word_count: 235
+char_count: 1740
+processed: true
+processed_note: \"[[Jellyfish - Lock-Free K-mer Counting]]\"
 ---
 
 **lock-free, multithreaded hash table**

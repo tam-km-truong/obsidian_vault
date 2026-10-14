@@ -1,16 +1,14 @@
 ---
 raw_tags:
   - cluster
+  - "phylopack preorder"
   - txt
-  - preorder
-  - cut-point
-  - statistic
-  - debug
-  - phylopack
-  - experiments
-word_count: 65
-char_count: 847
-processed: false
+  - "preorder experiments"
+  - basename
+word_count: 68
+char_count: 886
+processed: true
+processed_note: \"[[PhyloPack & Seqkit Hashing on ATB]]\"
 ---
 
 phylopack preorder experiments/098_EXPE_GTDB_recompression/data/maj_spc_clusters_full_path/s__Escherichia_coli.txt --cut-point 0.4 -o experiments/098_EXPE_GTDB_recompression/data/skeleton_phylogenies/s__Escherichia_coli/s__Escherichia_coli_preordered.txt -v --statistic --debug

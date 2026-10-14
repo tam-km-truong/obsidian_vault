@@ -2,15 +2,16 @@
 raw_tags:
   - size
   - generate
-  - batch
-  - phase
   - finalplacementorder
-  - stats
-  - placement
-  - tree
-word_count: 200
-char_count: 1654
-processed: false
+  - batch
+  - "throw error"
+  - phase
+  - sketch
+  - phylogeny
+word_count: 210
+char_count: 1740
+processed: true
+processed_note: \"[[Algorithm - Bin Packing & Preorder Pipeline Pseudocode]]\"
 ---
 
 PROCEDURE RunPreorderPipeline(Arguments):

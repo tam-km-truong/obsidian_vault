@@ -1,9 +1,10 @@
 ---
 raw_tags:
   - mash
-word_count: 12
-char_count: 78
-processed: false
+word_count: 17
+char_count: 126
+processed: true
+processed_note: \"[[Mash & MinHash Sketching]]\"
 ---
 
 #mash

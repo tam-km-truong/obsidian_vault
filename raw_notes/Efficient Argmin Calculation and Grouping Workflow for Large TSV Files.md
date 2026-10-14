@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - idx
-  - row
-  - open
-  - names
-  - awk
   - min
-  - argmin
-  - name
-word_count: 834
-char_count: 5876
-processed: false
+  - awk
+  - open
+  - open_files
+  - rows
+  - subprocess
+  - row_name
+word_count: 843
+char_count: 5954
+processed: true
+processed_note: \"[[Data Pipeline - Argmin Grouping on Large TSV]]\"
 ---
 
 ## 1. **Initial Problem Setup**

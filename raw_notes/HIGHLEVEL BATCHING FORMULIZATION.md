@@ -2,15 +2,16 @@
 raw_tags:
   - batches
   - batch
+  - "compressed size"
   - objective
-  - size
-  - genomes
-  - compressed
   - uncompressed
+  - genomes
   - minimize
-word_count: 844
-char_count: 5354
-processed: false
+  - number
+word_count: 851
+char_count: 5442
+processed: true
+processed_note: \"[[Mathematical Formulation - Order-Preserving Batching]]\"
 ---
 
 Here's a formal description of your general **optimization problem** for splitting a set of genomes $G = \{g_1, g_2, \dots, g_n\}$ into batches $\{b_1, b_2, \dots, b_m\}$, considering **compression and uncompressed sizes**:

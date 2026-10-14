@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "remove consecutive identical"
   - join
+  - "read write"
   - myfile
-  - slicing
   - dicing
-  - ivcr
-  - consecutive
-  - identical
   - duh
-word_count: 62
-char_count: 383
-processed: false
+  - "owner-group-visiter"
+  - uniq
+word_count: 71
+char_count: 461
+processed: true
+processed_note: \"[[CLI - Advanced Linux One-Liners]]\"
 ---
 
 ```bash

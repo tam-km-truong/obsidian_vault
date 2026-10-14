@@ -1,10 +1,10 @@
 ---
 raw_tags:
-  - ftp
-  - wget
-word_count: 15
-char_count: 159
-processed: false
+  - "wget ftp"
+word_count: 19
+char_count: 211
+processed: true
+processed_note: \"[[NCBI RefSeq Assembly Downloads]]\"
 ---
 
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/assembly_summary.txt

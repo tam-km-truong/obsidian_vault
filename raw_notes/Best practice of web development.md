@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "coding style"
   - readable
-  - coding
-  - style
   - brand
   - git
   - documentation
-  - thing
+  - "source content management"
+  - "avoid useless comments"
   - easy
-word_count: 195
-char_count: 1246
-processed: false
+word_count: 208
+char_count: 1365
+processed: true
+processed_note: \"[[Web Development Best Practices & FAIR Principles]]\"
 ---
 
 ## Brainstorming

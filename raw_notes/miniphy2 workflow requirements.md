@@ -2,15 +2,16 @@
 raw_tags:
   - workflow
   - snakemake
-  - inplace
-  - no-recursion
-  - file-extension
-  - snakefile
-  - dir
-  - batches
-word_count: 100
-char_count: 1450
-processed: false
+  - "readme step"
+  - "txt accession_order"
+  - "snakefile_no_tree input_dir"
+  - "create batches"
+  - "txt batches"
+  - ete3
+word_count: 112
+char_count: 1557
+processed: true
+processed_note: \"[[miniphy2 - Workflow Specifications & CLI]]\"
 ---
 
 snakemake

@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "key points"
   - genomes
   - species
   - compression
-  - points
-  - random
-  - access
+  - "random access"
   - phylogenetic
-  - key
-word_count: 1460
-char_count: 10685
-processed: false
+  - skeleton
+  - compressed
+word_count: 1469
+char_count: 10776
+processed: true
+processed_note: \"[[DSB 2025 - Phylogenetic Batching Presentation]]\"
 ---
 
 ## 1. Introduction

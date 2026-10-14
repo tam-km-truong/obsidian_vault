@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "semi complete figures"
+  - "technical details"
+  - "multiple dimension"
   - hierarchy
-  - semi
   - linearisation
   - ideas
-  - dimension
   - hal
-  - technical
-  - details
-word_count: 45
-char_count: 297
-processed: false
+  - focus
+word_count: 55
+char_count: 392
+processed: true
+processed_note: \"[[Research Project & Publication Plan]]\"
 ---
 
 hierarchy of technical details

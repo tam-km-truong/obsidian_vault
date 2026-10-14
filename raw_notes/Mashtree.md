@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - confidence
+  - "main tree"
   - trees
-  - k-mers
+  - "k-mers"
   - replacement
   - replicates
-  - calculates
-  - bootstrapping
-  - jackknifing
-word_count: 163
-char_count: 1162
-processed: false
+  - "rapidly comparing whole"
+  - "comparing whole genome"
+word_count: 174
+char_count: 1250
+processed: true
+processed_note: \"[[Mashtree - Rapid Comparative Genomics]]\"
 ---
 
 #mash

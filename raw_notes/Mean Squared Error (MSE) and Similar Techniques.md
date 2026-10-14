@@ -8,9 +8,10 @@ raw_tags:
   - error
   - values
   - metrics
-word_count: 574
-char_count: 4328
-processed: false
+word_count: 583
+char_count: 4413
+processed: true
+processed_note: \"[[Regression Evaluation Metrics (MSE, RMSE, MAE)]]\"
 ---
 
 ### **Evaluation Metrics for Regression Models**

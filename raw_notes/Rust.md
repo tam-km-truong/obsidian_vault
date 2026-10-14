@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - attribute
   - applies
-  - unused
-  - attr
   - module
+  - attribute
   - derive
-  - struct
   - rectangle
-word_count: 152
-char_count: 1172
-processed: false
+  - rust
+  - u32
+  - crate
+word_count: 159
+char_count: 1229
+processed: true
+processed_note: \"[[Rust - Syntax & Attribute Cheatsheet]]\"
 ---
 
 **Syntax**  

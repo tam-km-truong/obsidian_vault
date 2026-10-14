@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - arg
-  - dashing2
   - kmer
-  - k-mers
+  - "k-mers"
+  - "k-mer counts"
+  - dashing2
   - written
-  - cmpout
-  - save-kmers
   - saved
-word_count: 171
-char_count: 1192
-processed: false
+  - correspond
+word_count: 178
+char_count: 1263
+processed: true
+processed_note: \"[[dashing2 - HyperLogLog Genome Sketching]]\"
 ---
 
 The specific command is:  

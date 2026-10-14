@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "xargs pigz"
   - txt
   - seqkit
-  - pigz
-  - sum
   - cat
   - original
   - experiments
-  - xargs
-word_count: 54
-char_count: 337
-processed: false
+  - cut
+  - basename
+word_count: 62
+char_count: 411
+processed: true
+processed_note: \"[[PhyloPack & Seqkit Hashing on ATB]]\"
 ---
 
 original 

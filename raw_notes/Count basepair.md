@@ -3,13 +3,12 @@ raw_tags:
   - total
   - count
   - tar
-  - xof
   - grep
-  - enterica
-  - salmonella
-word_count: 87
-char_count: 514
-processed: false
+  - salmonella_enterica
+word_count: 89
+char_count: 552
+processed: true
+processed_note: \"[[CLI - Fast Basepair Counting]]\"
 ---
 
 ```bash

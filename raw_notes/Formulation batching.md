@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - batch
-  - size
-  - compressed
-  - tot
+  - "compressed size"
   - constraints
-  - batches
-  - j-1
   - uncompressed
-word_count: 3604
-char_count: 25790
-processed: false
+  - "j-1"
+  - batches
+  - "compression ratio"
+  - genomes
+word_count: 3611
+char_count: 25884
+processed: true
+processed_note: \"[[Mathematical Formulation - Order-Preserving Batching]]\"
 ---
 
 Below is the **order‑preserving, collection‑level** formulation that uses the **batch‑wise compressed size** as the denominator of your ratio—recognizing that

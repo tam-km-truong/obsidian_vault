@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - queue
+  - "job queue full"
   - pending
-  - job
-  - full
   - memory
   - backpressure
   - concurrency
+  - "your program"
   - tasks
-word_count: 504
-char_count: 3678
-processed: false
+  - overload
+word_count: 515
+char_count: 3779
+processed: true
+processed_note: \"[[Backpressure, Concurrency & Memory Management in Python]]\"
 ---
 
 # TL;DR Guide: Backpressure, Concurrency & Memory Management in Python

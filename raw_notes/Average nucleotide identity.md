@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - event
+  - "common ancestor"
+  - "gene duplication"
   - bidirectional
-  - hits
   - orthologs
   - evolved
-  - ancestor
   - speciation
   - paralogs
-word_count: 58
-char_count: 403
-processed: false
+word_count: 67
+char_count: 489
+processed: true
+processed_note: \"[[Average Nucleotide Identity (ANI) & Orthology]]\"
 ---
 
 Bidirectional best hits: 

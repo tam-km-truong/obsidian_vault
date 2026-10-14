@@ -2,15 +2,16 @@
 raw_tags:
   - split
   - txt
-  - part
   - numeric
   - suffix
   - chunk
-  - additional-suffix
+  - digits
+  - "approximately equal size"
   - parts
-word_count: 241
-char_count: 1805
-processed: false
+word_count: 251
+char_count: 1875
+processed: true
+processed_note: \"[[CLI - File Splitting (split & gsplit)]]\"
 ---
 
 To **split a text file into 6 parts by line**, you can use:

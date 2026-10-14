@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - chapters
+  - "easy questions-but lots"
+  - "ask quick"
+  - "unix commandline"
   - analyze
-  - quick
-  - questions-but
-  - lots
   - book
-  - manual
   - bioinfo
-word_count: 66
-char_count: 392
-processed: false
+  - irrelevant
+word_count: 76
+char_count: 491
+processed: true
+processed_note: \"[[Bioinformatics Databases & Resources Overview]]\"
 ---
 
 So make your data small, analyze it quickly and ask quick and easy questions-but lots of them. You will get much further

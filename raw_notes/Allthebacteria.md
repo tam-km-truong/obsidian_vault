@@ -2,15 +2,16 @@
 raw_tags:
   - species
   - dataset
+  - "quality control"
   - contamination
   - genome
-  - taxonomic
   - completeness
-  - assemblies
-  - bacterial
-word_count: 405
-char_count: 3075
-processed: false
+  - taxonomic
+  - "uniformly processed"
+word_count: 413
+char_count: 3154
+processed: true
+processed_note: \"[[AllTheBacteria - 1.9M Uniform Bacterial Genomes]]\"
 ---
 
 comprehensive dataset of bacterial genomes

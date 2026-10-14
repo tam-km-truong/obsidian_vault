@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - workflow
-  - non-zero
-  - exit
-  - attotree
-  - tree
-  - order
-  - txt
-  - post-processing
-word_count: 90
-char_count: 1221
-processed: false
+  - "attotree workflow"
+  - "txt nodes_order"
+  - "wed oct"
+  - "rule compute_tree"
+  - "post-processing"
+  - leaves_order
+  - ruleexception
+  - calledprocesserror
+word_count: 102
+char_count: 1353
+processed: true
+processed_note: \"[[Attotree - Fast Tree Construction & Troubleshooting]]\"
 ---
 
 post-processing

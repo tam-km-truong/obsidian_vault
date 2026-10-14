@@ -2,15 +2,16 @@
 raw_tags:
   - grep
   - txt
-  - fvx
   - file1
   - file2
   - ids
   - match
   - differences
-word_count: 278
-char_count: 1828
-processed: false
+  - patterns
+word_count: 287
+char_count: 1906
+processed: true
+processed_note: \"[[CLI - Pattern Matching & Difference Checking (grep)]]\"
 ---
 
 ## 1. Check differences using `grep`

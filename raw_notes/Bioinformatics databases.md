@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - database
-  - acids
-  - molecular
-  - biology
+  - "nucleic acids research"
+  - "online molecular biology"
+  - "starting point nevertheless"
+  - "every year"
+  - "bacterial genomes"
   - seem
-  - nevertheless
-  - nucleic
-  - online
-word_count: 62
-char_count: 476
-processed: false
+  - doesn
+word_count: 76
+char_count: 612
+processed: true
+processed_note: \"[[Bioinformatics Databases & Resources Overview]]\"
 ---
 
 Every year, there is the Nucleic Acids Research database issue and the online molecular biology database collection

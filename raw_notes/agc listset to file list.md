@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - archive
   - archives
+  - archive
   - fof
+  - genome_to_archive
+  - archive_001
   - base
-  - contains
-  - agc
-  - genome
-  - txt
-word_count: 98
-char_count: 759
-processed: false
+  - "will contain"
+  - "same5555555 archive_002"
+word_count: 105
+char_count: 835
+processed: true
+processed_note: \"[[AGC - Assembled Genomes Compressor]]\"
 ---
 
 If `archives.fof` contains one archive path per line:

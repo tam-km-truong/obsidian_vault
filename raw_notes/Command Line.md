@@ -2,15 +2,16 @@
 raw_tags:
   - file2
   - txt
-  - experiments
-  - match
-  - source
+  - "source source"
+  - "experiments experiments"
   - cat
-  - kmc
+  - match
   - folder
-word_count: 233
-char_count: 2047
-processed: false
+  - pigz
+word_count: 242
+char_count: 2120
+processed: true
+processed_note: \"[[CLI - General Shell Utilities & Measuring]]\"
 ---
 
 Add `time` before the command you want to measure. For example: `time ls`.

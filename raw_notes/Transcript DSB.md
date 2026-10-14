@@ -4,13 +4,14 @@ raw_tags:
   - species
   - compression
   - phylogenetic
-  - atb
   - isolates
-  - compressed
+  - tree
+  - atb
   - collections
-word_count: 1389
-char_count: 9818
-processed: false
+word_count: 1397
+char_count: 9881
+processed: true
+processed_note: \"[[DSB 2025 - Phylogenetic Batching Presentation]]\"
 ---
 
 Today I will present my work on phylogenetic ordering and batching of million-genome collections for reduced storage and faster retrieval.

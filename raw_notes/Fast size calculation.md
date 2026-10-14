@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - total
-  - time
   - remaining
-  - sum
+  - start_time
   - systime
   - elapsed
-  - printf
   - int
-word_count: 177
-char_count: 1295
-processed: false
+  - printf
+  - bytes
+word_count: 185
+char_count: 1362
+processed: true
+processed_note: \"[[CLI - Batch Size & Memory Calculation]]\"
 ---
 
 ```bash

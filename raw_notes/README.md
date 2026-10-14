@@ -1,9 +1,10 @@
 ---
 raw_tags:
   - workspace
-word_count: 13
-char_count: 93
-processed: false
+word_count: 19
+char_count: 153
+processed: true
+processed_note: \"[[Vault Scratchpad & Research Questions]]\"
 ---
 
 New workspace

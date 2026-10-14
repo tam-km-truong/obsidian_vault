@@ -4,13 +4,14 @@ raw_tags:
   - species
   - compression
   - phylogenetic
-  - extraction
   - skeleton
+  - extraction
+  - tree
   - phrase
-  - percent
-word_count: 1708
-char_count: 11891
-processed: false
+word_count: 1716
+char_count: 11960
+processed: true
+processed_note: \"[[SeqBIM 2025 - Large-Scale Bacterial Genome Storage]]\"
 ---
 
 This work focuses on how we can store and access millions of bacterial genomes efficiently using a method we call phylogenetic batching. The aim is to show why this problem matters, what the current limitations are, and how our approach improves both compression and extraction at very large scale.

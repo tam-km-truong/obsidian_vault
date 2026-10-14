@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - recomb
-  - check
-  - specification
-  - page
-  - alternative
-  - confe
-  - magnify
-  - metropole
-word_count: 101
-char_count: 603
-processed: false
+  - "rennes metropole funding"
+  - "ecole doctoral bretagne"
+  - "paper specification"
+  - "alternative confe"
+  - "magnify project"
+  - "around months"
+  - "first version"
+word_count: 116
+char_count: 748
+processed: true
+processed_note: \"[[Research Project & Publication Plan]]\"
 ---
 
 paper specification

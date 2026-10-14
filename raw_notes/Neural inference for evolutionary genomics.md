@@ -1,13 +1,12 @@
 ---
 raw_tags:
-  - probabilistic
-  - relate
-  - observations
+  - "probabilistic models relate"
+  - "models relate observations"
   - parameters
-  - models
-word_count: 25
-char_count: 192
-processed: false
+word_count: 31
+char_count: 268
+processed: true
+processed_note: \"[[Neural Inference for Evolutionary Genomics]]\"
 ---
 
 probabilistic models relate observations to parameters

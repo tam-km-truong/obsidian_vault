@@ -4,13 +4,14 @@ raw_tags:
   - scaffold
   - galaxy
   - contig
-  - reference
-  - reads
   - format
   - bam
-word_count: 357
-char_count: 2474
-processed: false
+  - reads
+  - reference
+word_count: 364
+char_count: 2537
+processed: true
+processed_note: \"[[GenOuest - Genome Assembly and Annotation]]\"
 ---
 
 Presentation de Galaxy

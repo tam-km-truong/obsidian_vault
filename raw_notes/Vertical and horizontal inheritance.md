@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - dna
   - genetic
   - plasmids
-  - mobile
-  - element
-  - genome
-  - extrachromosomal
+  - dna
   - cell
-word_count: 199
-char_count: 2491
-processed: false
+  - sometimes
+  - transposon
+  - "often carry useful"
+  - "carry useful genes"
+word_count: 205
+char_count: 2544
+processed: true
+processed_note: \"[[Vertical and Horizontal Gene Transfer]]\"
 ---
 
 vertical: through generations as parents fission into pairs of children

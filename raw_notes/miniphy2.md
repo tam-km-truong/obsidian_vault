@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - fof
-  - compress
-  - batch
-  - miniphy2
-  - lfo
-  - string
+  - "miniphy2 compress"
+  - "rule compress_batch"
   - exited
-  - non-zero
-word_count: 390
-char_count: 10653
-processed: false
+  - jobid
+  - message
+  - error
+  - "mon jun"
+  - shell
+word_count: 400
+char_count: 10745
+processed: true
+processed_note: \"[[miniphy2 - Workflow Specifications & CLI]]\"
 ---
 
 ./miniphy2 compress 

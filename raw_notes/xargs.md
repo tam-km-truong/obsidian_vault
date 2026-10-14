@@ -4,13 +4,14 @@ raw_tags:
   - tar
   - folder
   - parallel
+  - "cpu cores"
   - pigz
   - archive
-  - cpu
   - compressed
-word_count: 484
-char_count: 3196
-processed: false
+word_count: 492
+char_count: 3259
+processed: true
+processed_note: \"[[CLI - xargs & Parallel Processing]]\"
 ---
 
 # TLDR

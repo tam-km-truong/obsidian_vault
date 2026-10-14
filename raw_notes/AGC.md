@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - agc
-  - mags
+  - "gzipped individual genomes"
   - ref
-  - gzipped
+  - mags
+  - gtdb_mags_13
   - getcol
   - head
-  - processed
   - compressor
-word_count: 77
-char_count: 471
-processed: false
+word_count: 85
+char_count: 550
+processed: true
+processed_note: \"[[AGC - Assembled Genomes Compressor]]\"
 ---
 
 ```bash

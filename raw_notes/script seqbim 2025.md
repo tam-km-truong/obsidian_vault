@@ -8,9 +8,10 @@ raw_tags:
   - phylogenetic
   - skeleton
   - extraction
-word_count: 1774
-char_count: 11240
-processed: false
+word_count: 1782
+char_count: 11312
+processed: true
+processed_note: \"[[SeqBIM 2025 - Large-Scale Bacterial Genome Storage]]\"
 ---
 
 # **Revised Script with Transitions**

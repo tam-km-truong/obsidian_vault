@@ -2,15 +2,16 @@
 raw_tags:
   - datasets
   - bigsi
-  - sequence
   - sbt
+  - sequence
   - scalability
+  - "antimicrobial resistance genes"
   - blast
   - genotyping
-  - resistance
-word_count: 645
-char_count: 4505
-processed: false
+word_count: 657
+char_count: 4607
+processed: true
+processed_note: \"[[BIGSI - Ultra-Fast Indexing of Bacterial & Viral Data]]\"
 ---
 
 Back ground and Context: (2019)

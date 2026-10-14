@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - snakefile
-  - dir
-  - snakemake
-  - config
-  - cores
-  - workflow
-  - rerun-incomplete
-  - sketch
-word_count: 207
-char_count: 4075
-processed: false
+  - "snakefile input_dir"
+  - "snakemake workflow"
+  - output_dir
+  - sketch_size
+  - running
+  - "mtuber atb recompression"
+  - "phylopacking ecoli reference"
+  - "fixed fraction size"
+word_count: 224
+char_count: 4234
+processed: true
+processed_note: \"[[SLURM Jobs - Active Benchmarking & Recompression Runs]]\"
 ---
 
 Run mtuber atb recompression

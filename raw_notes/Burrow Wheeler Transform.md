@@ -3,14 +3,15 @@ raw_tags:
   - string
   - sort
   - last
-  - pasted
-  - png
-  - image
+  - "rotated strings"
+  - "lexical order"
   - take
   - add
-word_count: 71
-char_count: 437
-processed: false
+  - rotate
+word_count: 79
+char_count: 526
+processed: true
+processed_note: \"[[Burrows-Wheeler Transform (BWT) in Genomics]]\"
 ---
 
 input string, rotate the input string, sort the rotated strings into lexical order, take the last columns

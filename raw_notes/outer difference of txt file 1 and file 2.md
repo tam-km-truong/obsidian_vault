@@ -4,13 +4,14 @@ raw_tags:
   - match
   - txt
   - file1
+  - "outer difference"
+  - "without needing"
+  - "fixed string"
   - minus
-  - needing
-  - fxv
-  - outer
-word_count: 93
-char_count: 684
-processed: false
+word_count: 104
+char_count: 774
+processed: true
+processed_note: \"[[CLI - Set Difference of Text Files]]\"
 ---
 
 ### This gives you the **outer difference of file1 minus file2** without needing to sort. 

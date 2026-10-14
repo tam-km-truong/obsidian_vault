@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - card
+  - "your problem"
+  - "batch must"
   - minimize
-  - must
-  - batch
-  - set
-  - representation
-  - your
-  - problem
-word_count: 179
-char_count: 1142
-processed: false
+  - "genome must belong"
+  - "representation summarizes your"
+  - "mathematical representation"
+  - "distinct kk-mers"
+word_count: 193
+char_count: 1305
+processed: true
+processed_note: \"[[Mathematical Formulation - Order-Preserving Batching]]\"
 ---
 
 Here is the mathematical representation of your problem as an equation or set of conditions:

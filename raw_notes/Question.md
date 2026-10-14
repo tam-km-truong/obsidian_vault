@@ -1,11 +1,11 @@
 ---
 raw_tags:
-  - mapping
+  - "read mapping"
   - clustering
-  - read
-word_count: 19
-char_count: 127
-processed: false
+word_count: 24
+char_count: 186
+processed: true
+processed_note: \"[[Vault Scratchpad & Research Questions]]\"
 ---
 
 clustering in read mapping

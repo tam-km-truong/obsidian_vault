@@ -4,13 +4,14 @@ raw_tags:
   - placed
   - bins
   - genome
-  - kmers
+  - "distinct k-mers"
   - estimate
-  - threshold
-  - distinct
-word_count: 184
-char_count: 1320
-processed: false
+  - append
+  - kmer_threshold
+word_count: 194
+char_count: 1411
+processed: true
+processed_note: \"[[Algorithm - Bin Packing & Preorder Pipeline Pseudocode]]\"
 ---
 
 bins = []  # list of bins, each bin is a list of genomes

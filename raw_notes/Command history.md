@@ -5,12 +5,13 @@ raw_tags:
   - agc
   - basename
   - galitime
-  - head
   - stdout
+  - head
   - create
-word_count: 63
-char_count: 528
-processed: false
+word_count: 72
+char_count: 596
+processed: true
+processed_note: \"[[CLI - Random Access & Dustbin Batching History]]\"
 ---
 
 ```bash

@@ -4,9 +4,10 @@ raw_tags:
   - basename
   - txt
   - compressor
-word_count: 56
-char_count: 359
-processed: false
+word_count: 63
+char_count: 424
+processed: true
+processed_note: \"[[MBGC - Multiple Bacterial Genome Compressor]]\"
 ---
 
 ```bash

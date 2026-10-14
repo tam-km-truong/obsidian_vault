@@ -1,14 +1,12 @@
 ---
 raw_tags:
-  - tree
-  - minimum-evolution
-  - parsimonious
-  - operational
-  - unit
-  - taxonomic
-word_count: 28
-char_count: 219
-processed: false
+  - "operational taxonomic unit"
+  - "minimum-evolution tree"
+  - "parsimonious tree"
+word_count: 32
+char_count: 286
+processed: true
+processed_note: \"[[Phylogenetics Fundamentals & Tree Confidence]]\"
 ---
 
 minimum-evolution tree

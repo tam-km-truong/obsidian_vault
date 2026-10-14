@@ -6,11 +6,12 @@ raw_tags:
   - links
   - json
   - key
+  - parse
   - dwnload
-  - ifs
-word_count: 79
-char_count: 466
-processed: false
+word_count: 85
+char_count: 528
+processed: true
+processed_note: \"[[Zenodo API Automated Download Pipeline]]\"
 ---
 
 curl https://zenodo.org/api/records/10229555 | jq -j '.files[] | "\(.key);\(.links[])\n"' | while IFS=";" read -r name url; do  wget -O $name $url; done

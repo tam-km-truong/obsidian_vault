@@ -1,16 +1,17 @@
 ---
 raw_tags:
-  - majority
+  - "majority species"
+  - "insdc sequencing runs"
   - least
-  - species
-  - insdc
-  - checkm2-completeness
-  - checkm2-contamination
+  - "species call"
+  - "genome size"
+  - "checkm2-completeness"
+  - "checkm2-contamination"
   - abundance
-  - runs
-word_count: 72
-char_count: 479
-processed: false
+word_count: 85
+char_count: 597
+processed: true
+processed_note: \"[[High Quality Genomes - Quality Control Standards]]\"
 ---
 
 genome size between 100k and 15Mb, 

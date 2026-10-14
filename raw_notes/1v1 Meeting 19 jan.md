@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "important point"
+  - "gtdb dataset"
+  - "current problem"
   - formalization
   - trying
   - extend
   - solve
-  - important
-  - point
   - project
-  - name
-word_count: 47
-char_count: 297
-processed: false
+word_count: 58
+char_count: 404
+processed: true
+processed_note: \"[[Meeting - 2025-01-19 1-on-1 on Optimization Formulation]]\"
 ---
 
 Important point:

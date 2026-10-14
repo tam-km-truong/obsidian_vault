@@ -2,15 +2,16 @@
 raw_tags:
   - mash
   - sequences
-  - sketches
   - txt
   - msh
   - sketch
-  - minhash
-  - hash
-word_count: 200
-char_count: 1543
-processed: false
+  - "minhash sketches"
+  - "chance matches"
+  - values
+word_count: 207
+char_count: 1608
+processed: true
+processed_note: \"[[Mash & MinHash Sketching]]\"
 ---
 
 #mash

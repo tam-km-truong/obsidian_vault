@@ -1,11 +1,9 @@
 ---
 raw_tags:
-  - pasted
-  - png
-  - image
-word_count: 18
-char_count: 130
-processed: false
+word_count: 20
+char_count: 174
+processed: true
+processed_note: \"[[Genomic Data Compression Survey (zstd, AGC, MBGC)]]\"
 ---
 
 ![[Pasted image 20250618140312.png]]

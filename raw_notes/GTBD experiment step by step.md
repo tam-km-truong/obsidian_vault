@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - download
+  - "install ncbi datasets"
+  - "ncbi datasets cli"
+  - "datasets cli tool"
   - folder
-  - metadata
-  - extract
-  - website
-  - dehydrate
-  - rehydrate
-  - downloaded
-word_count: 82
-char_count: 525
-processed: false
+  - "database website"
+  - "maybe cluster"
+  - "dehydrate zip"
+word_count: 98
+char_count: 648
+processed: true
+processed_note: \"[[GTDB - Step-by-Step Dataset Download & Setup]]\"
 ---
 
 1: Download the metadata from the database website

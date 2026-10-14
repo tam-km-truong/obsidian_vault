@@ -1,16 +1,17 @@
 ---
 raw_tags:
   - compression
+  - "sliding window"
   - speed
-  - window
-  - sliding
-  - default
+  - "window size"
   - zstd
+  - default
   - high
   - decompression
-word_count: 284
-char_count: 1983
-processed: false
+word_count: 294
+char_count: 2070
+processed: true
+processed_note: \"[[Genomic Data Compression Survey (zstd, AGC, MBGC)]]\"
 ---
 
 From a discussion with Tam who was looking for paper about compressors, there are some recap papers on dictionary-based compressors, here are some assertions about some of them (none of compressors have a single official publication)

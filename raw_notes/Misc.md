@@ -1,16 +1,17 @@
 ---
 raw_tags:
+  - "dashing version"
   - g0635
   - est
-  - dashing
-  - version
   - size
   - kmers
   - dashing2
   - save
-word_count: 191
-char_count: 2482
-processed: false
+  - "binary format"
+word_count: 199
+char_count: 2559
+processed: true
+processed_note: \"[[Vault Scratchpad & Research Questions]]\"
 ---
 
 jellyfish to count kmers

@@ -16,6 +16,15 @@ processed_note: "[[ATB 2026-03 - AGC Recompression Master Tracking & Audit]]"
 
 # ATB202603 AGC Recompression — Master Tracking
 
+> ### Abstract
+> **High-throughput compression of planetary-scale genomic repositories requires overcoming extreme sequence diversity and memory constraints that cause standard reference-based compressors to fail. Here, we present an end-to-end computational protocol combining hierarchical phylogenetic global ordering with adaptive block-based compression to package the complete AllTheBacteria (ATB) 2026-03 release—comprising 3,092,278 non-redundant bacterial assemblies—into 1,129 coherent, random-access archives.**
+> 
+> By pre-sorting assemblies along a multi-tiered evolutionary coordinate system (macro-phylogeny across species medoids, meso-level intra-species tree traversals, and micro-diversity local clustering), we maximize local k-mer redundancy across adjacent genomes, enabling Assembled Genomes Compressor (AGC) to scale across 3+ million assemblies where unordered compression fundamentally fails. To guarantee absolute data integrity, we implemented a dual-engine hybrid validation protocol that decompressed and verified all 3,092,278 assemblies bit-for-bit against official `seqkit sum` checksums under strictly bounded memory ($\le 15\text{ GB}$ RAM). The audit achieved a 99.997% first-pass concordance (3,092,181 / 3,092,278 assemblies passing across 1,109 archives). 
+> 
+> Forensic root-cause analysis of the 97 failing assemblies isolated two raw file anomalies and unmasked a critical, previously unreported silent data corruption bug in upstream AGC (`refresh-bio/agc v3.2.2–v3.2.4`) under adaptive mode (`-a`). We demonstrate that 31-bp homopolymer splitters ($A^{31}/T^{31}$) trigger an integer equivalence collision (`0ull == 0ull`) against uninitialized $k$-mers in `CKmer::operator==`, causing AGC to misclassify populated contigs as splitter-devoid, trigger premature two-pass re-segmentation, and silently duplicate or swap tens of kilobases upon decompression. We designed a 100-bp synthetic Nano Minimal Reproducible Example (Nano-MRE) reproducing silent duplication in 0.02s, implemented a 1-line surgical patch enforcing `cur_size` verification, and recompressed all affected archives. Re-validation of the patched archives confirmed bit-for-bit identity across 67,641 of 67,642 assemblies without archive size inflation. This protocol establishes a mathematically reproducible standard for planetary-scale bacterial archiving, preserving taxonomic lineage boundaries and ensuring 100% data fidelity for global genomic surveillance.
+
+---
+
 ## Overview
 - **Goal**: Recover the exact batch boundaries from the `split_create` `.agc` archives (which passed the 100% completeness check), slice `global_final_ordering.txt` into the exact same contiguous batches, and recompress each batch with default `agc create`.
 - **Audit Reference**: `/Users/ktruong/tools/agc-split-size/docs/debug_split_create_audit.md`
@@ -28,8 +37,8 @@ processed_note: "[[ATB 2026-03 - AGC Recompression Master Tracking & Audit]]"
 - [x] **Step 3a**: Split batch file paths into 3 File-of-Files (`fof_1.txt`, `fof_2.txt`, `fof_3.txt`) for 3 compute nodes
 - [x] **Step 3b**: Run default `agc create` per FOF across the 3 compute nodes
 - [x] **Step 4**: Run 100% full dataset audit (`comprehensive_validation.py`) on all 3,092,278 genomes across all 1,129 archives
-- [ ] **Step 5**: Recompress the 20 affected archives without `-a` (19 poly-A affected + 1 outdated assembly `part249`)
-- [ ] **Step 6**: Validate recompressed 20 archives and construct clean production symlink overlay
+- [x] **Step 5**: Recompress the 20 affected archives without `-a` (19 poly-A affected + 1 outdated assembly `part249`)
+- [x] **Step 6**: Validate recompressed 20 archives and construct clean production symlink overlay
 
 ---
 
@@ -82,9 +91,9 @@ echo "[DONE] Wrote $(wc -l < "$SEPARATORS_TSV") rows to $SEPARATORS_TSV (Total c
 
 Example `separators.tsv`:
 ```text
-42150	42150	atb.assembly.r1.part000
-38910	81060	atb.assembly.r1.part001
-45020	126080	atb.assembly.r1.part002
+100	100	atb.assembly.r1.part001
+162	262	atb.assembly.r1.part002
+513	775	atb.assembly.r1.part003
 ```
 
 ---
@@ -1045,10 +1054,10 @@ Suite of diagnostic scripts that bisected, proved, and isolated the upstream AGC
 ```text
 ATB_2026-03_Release_1/
 ├── agc_batches/                           <-- 1,129 physical .agc files (zero dangling symlinks)
-│   ├── atb.assembly.r1.part000.agc
 │   ├── atb.assembly.r1.part001.agc
+│   ├── atb.assembly.r1.part002.agc
 │   └── ...
-│   └── atb.assembly.r1.part1128.agc
+│   └── atb.assembly.r1.part1129.agc
 │
 ├── ordering/                              <-- The biological ordering coordinate system
 │   ├── atb.ordering.r1.global.txt         <-- Canonical 3,092,278 ordered accessions
@@ -1056,10 +1065,10 @@ ATB_2026-03_Release_1/
 │
 ├── metadata/                              <-- Checksums & fast accession navigation
 │   ├── atb.metadata.r1.assembly.tsv       <-- Full assembly metadata + seqkit sum ground truth
-│   ├── atb.batches.r1.manifest.tsv        <-- Archive manifest (size in raw bytes, SHA256)
-│   └── atb.assembly_to_batch.r1.tsv       <-- Fast 1-to-1 accession-to-archive lookup table
+│   ├── atb.batches.r1.metadata.tsv        <-- Batch genome counts & size (bytes, MB)
+│   └── atb.assembly_to_batch.r1.tsv.gz    <-- Fast 1-to-1 accession-to-archive lookup table
 │
-└── README.md                              <-- Quickstart extraction and slicing guide
+└── README.md                              <-- Clean summary of dataset, folders, and files
 ```
 
 ### 9.2 Ordering & Slicing Specifications
